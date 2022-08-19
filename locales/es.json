@@ -1,0 +1,15 @@
+{
+    "menu": {
+        "en": "English",
+        "es": "Spanish",
+        "home": "Inicio",
+        "about": "Acerca de"
+    },
+    "main": {
+        "welcome": "!Hola desde Lokalise!",
+        "new_message": "ningún mensaje | un mensaje | {count } mensajes"
+    },
+    "about": {
+        "welcome": "!Bienvenido a la pagina 'Acerca de'!"
+    }
+}
