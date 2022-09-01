@@ -3,7 +3,8 @@
         "en": "English",
         "es": "Spanish",
         "home": "Home",
-        "about": "About"
+        "about": "About",
+        "contact": "Contact us"
     },
     "main": {
         "welcome": "Hello from Lokalise!",
