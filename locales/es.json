@@ -8,7 +8,9 @@
     },
     "main": {
         "welcome": "!Hola desde Lokalise!",
-        "new_message": "ningún mensaje | un mensaje | {count } mensajes"
+        "new_message": "ningún mensaje | un mensaje | {count } mensajes",
+        "nee_key2": "mostrando que se ha hecho un cambio",
+        "new_key2": "mostrando que se ha hecho un cambio"
     },
     "about": {
         "welcome": "!Bienvenido a la pagina 'Acerca de'!"
