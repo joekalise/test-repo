@@ -1,3 +1,4 @@
+{
     “menu”: {
         “en”: “English”,
         “es”: “Spanish”,
@@ -12,3 +13,4 @@
     “about”: {
         “welcome”: “Welcome to the About page!”
     }
+}
