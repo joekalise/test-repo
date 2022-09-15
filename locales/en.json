@@ -9,7 +9,10 @@
     "main": {
         "welcome": "Hello from Lokalise!",
         "new_message": "no messages | one message | {count} messages",
-        "test_key":"Adding a test key for demo purposes."
+        "new_key2": "showing a change has been made",
+        "nee_key2": "showing a change has been made",
+        "new_key3": "showing an even newer change has been made",
+        "test_key": "Adding a test key for demo purposes."
     },
     "about": {
         "welcome": "Welcome to the About page!"
