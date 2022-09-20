@@ -6,13 +6,12 @@
         "about": "About",
         "contact": "Contact us"
     },
-    "main": {
-        "welcome": "Hello from Lokalise!",
-        "new_message": "no messages | one message | {count} messages",
-        "new_key2": "showing a change has been made",
-        "nee_key2": "showing a change has been made",
-        "new_key3": "showing an even newer change has been made",
-        "test_key": "Adding a test key for demo purposes."
+    "caseDrawer": {
+      "notes": {
+        "heading": "Notes",
+        "text": "Note",
+        "subheading": "Add a note.."
+      },
     },
     "about": {
         "welcome": "Welcome to the About page!"
