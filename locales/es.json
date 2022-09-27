@@ -4,15 +4,14 @@
         "es": "Spanish",
         "home": "Inicio",
         "about": "Acerca de",
-        "contact": "Contacto"
+        "privacy": "Política de privacidad"
     },
     "main": {
         "welcome": "!Hola desde Lokalise!",
-        "new_message": "ningún mensaje | un mensaje | {count } mensajes",
-        "new_key2": "mostrando que se ha hecho un cambio",
-        "nee_key2": "mostrando que se ha hecho un cambio",
-        "new_key3": "",
-        "test_key": "Adición de una clave de prueba para fines de demostración."
+        "new_message": "ningún mensaje | un mensaje | {count} mensajes",
+        "tms": "Lokalise es un TMS",
+        "new_key": "Esta es una nueva clave.",
+        "g2": "Lea sobre nosotros en G2"
     },
     "about": {
         "welcome": "!Bienvenido a la pagina 'Acerca de'!"
