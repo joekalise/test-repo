@@ -9,7 +9,8 @@
     "main": {
         "welcome": "Hello from Lokalise!",
         "new_message": "no messages | one message | {count} messages",
-        "tms": "Lokalise is a TMS! Read about us on G2!",
+        "tms": "Lokalise is a TMS",
+        "g2": "Read about us on G2",
         "new_key": "This is a new key"
     },
     "about": {
