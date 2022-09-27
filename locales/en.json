@@ -3,16 +3,11 @@
         "en": "English",
         "es": "Spanish",
         "home": "Home",
-        "about": "About",
-        "contact": "Contact us",
-        "privacy": "Privacy Policy"
+        "about": "About"
     },
-    "caseDrawer": {
-      "notes": {
-        "heading": "Notes",
-        "text": "Note",
-        "subheading": "Add a note.."
-      },
+    "main": {
+        "welcome": "Hello from Lokalise!",
+        "new_message": "no messages | one message | {count} messages"
     },
     "about": {
         "welcome": "Welcome to the About page!"
