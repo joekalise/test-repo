@@ -8,7 +8,8 @@
     },
     "main": {
         "welcome": "Hello from Lokalise!",
-        "new_message": "no messages | one message | {count} messages"
+        "new_message": "no messages | one message | {count} messages",
+        "tms": "Lokalise is a TMS."
     },
     "about": {
         "welcome": "Welcome to the About page!"
