@@ -1,14 +1,15 @@
 {
-        "sign_in": "Sign in",
-        "register": "Register",
-        "log_in_with_facebook": "Log in with Facebook",
-        "signup_with_e-mail": "Or signup with your email",
-        "first_name": "First name",
-        "name_field": "John",
-        "email": "Email",
-        "email_field": "john@lokalise.com",
-        "password": "Password",
-        "privacy_policy.": "By signing up, you accept our <u>Privacy Policy</u>.",
-        "join_existing_team": "Do you want to instead join an existing Team? Sign in",
-        "new_key":"Adding new key manually"
+    "menu": {
+        "en": "English",
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact us"
+    },
+    "main": {
+        "welcome": "Hello from Lokalise!",
+        "new_message": "no messages | one message | {count} messages"
+    },
+    "about": {
+        "welcome": "Welcome to the About page!"
+    }
 }
