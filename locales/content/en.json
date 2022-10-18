@@ -1,0 +1,13 @@
+{
+        "sign_in": "Sign in",
+        "register": "Register",
+        "log_in_with_facebook": "Log in with Facebook",
+        "signup_with_e-mail": "Or signup with your email",
+        "first_name": "First name",
+        "name_field": "John",
+        "email": "Email",
+        "email_field": "john@lokalise.com",
+        "password": "Password",
+        "privacy_policy.": "By signing up, you accept our <u>Privacy Policy</u>.",
+        "join_existing_team": "Do you want to instead join an existing Team? Sign in"
+}
