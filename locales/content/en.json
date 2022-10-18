@@ -9,5 +9,6 @@
         "email_field": "john@lokalise.com",
         "password": "Password",
         "privacy_policy.": "By signing up, you accept our <u>Privacy Policy</u>.",
-        "join_existing_team": "Do you want to instead join an existing Team? Sign in"
+        "join_existing_team": "Do you want to instead join an existing Team? Sign in",
+        "new_key":"Adding new key manually"
 }
