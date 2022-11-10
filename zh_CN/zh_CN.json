@@ -1,0 +1,22 @@
+{
+    "menu": {
+        "en": "英语",
+        "es": "西班牙语",
+        "home": "家",
+        "about": "关于",
+        "privacy": "隐私政策"
+    },
+    "main": {
+        "welcome": "您好，来自 Lokalise！",
+        "new_message": "没有消息 |一条消息 | {count}条消息",
+        "tms": "Lokalise 是 TMS",
+        "g2": "在 G2 上了解我们",
+        "new_key": "这是一把新钥匙",
+        "get2know": "了解 Lokalise",
+        "get2know_message": "我们的目标是通过提供工具来自动化、集成和更好地管理您的翻译，从而消除本地化的麻烦。 Lokalise 是成长型公司将其移动应用程序、游戏、软件或数字内容扩展到多种语言的更好方式。",
+        "test_key": "为演示目的添加密钥"
+    },
+    "about": {
+        "welcome": "欢迎来到关于页面！"
+    }
+}
