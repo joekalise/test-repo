@@ -17,7 +17,7 @@
         "test_key": "Adding a key for demo purposes",
         "latest-test": "Adding an even newer test",
         "newest-key": "This is an even newer key",
-        "newester-key": "This is the latest key",
+        "newester-key": "This is a translated key",
         "even-newer": "This is my last test (hopefully)"
     },
     "about": {
