@@ -6,6 +6,7 @@
     },
     "main": {
         "welcome": "Hello from Lokalise!",
+        "about": "About us",
         "new_message": "no messages | one message | {count} messages",
         "tms": "Lokalise is a TMS",
         "new_key": "This is a new key",
