@@ -1,0 +1,24 @@
+{
+    "name": "John",
+    "age": "35",
+    "occupation": "ingénieur logiciel",
+    "employer": "Acmé Corporation",
+    "salary": "100000",
+    "address": {
+        "street": "123, rue Principale",
+        "city": "N'importe quelle ville",
+        "state": "Californie",
+        "zip": "12345"
+    },
+    "hobbies": [
+        "en lisant",
+        "randonnée",
+        "jouer de la guitare"
+    ],
+    "favorite_color": "bleu",
+    "education": {
+        "degree": "licence en sciences",
+        "major": "L'informatique",
+        "university": "Université de Californie, Los Angeles"
+    }
+}

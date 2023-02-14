@@ -1,0 +1,16 @@
+{
+    "country": "Etats-Unis",
+    "capital": "Washington DC",
+    "language": "Anglais",
+    "currency": "USD",
+    "population": "328.2",
+    "area_sq_mi": "3796742",
+    "president": "Joe Biden",
+    "flag_colors": [
+        "rouge",
+        "blanc",
+        "bleu"
+    ],
+    "national_animal": "Pygargue à tête blanche",
+    "national_flower": "rose"
+}
