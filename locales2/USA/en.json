@@ -1,0 +1,12 @@
+{
+  "country": "USA",
+  "capital": "Washington D.C.",
+  "language": "English",
+  "currency": "USD",
+  "population": 328.2,
+  "area_sq_mi": 3796742,
+  "president": "Joe Biden",
+  "flag_colors": ["red", "white", "blue"],
+  "national_animal": "bald eagle",
+  "national_flower": "rose"
+}
