@@ -1,0 +1,21 @@
+{
+    "Page_1.Register": "Register",
+    "Page_2.Get_to_know_Lokalise_better": "Get to know Lokalise better",
+    "Page_2.30": "30",
+    "Page_1.Password": "Password",
+    "Page_1.better@lokalise.com": "better@lokalise.com",
+    "Page_2.You_are_logged_on_in_one_location": {
+        "zero": "You are logged on in no locations",
+        "one": "You are logged on in 1 location",
+        "other": "You are logged on in %d locations"
+    },
+    "Page_1.Group_894.Sign_in_with_Google": "Sign in with Google",
+    "Page_1.Or_signup_with_your_e-mail": "Or signup with your e-mail",
+    "Page_1.Full_name": "Full name",
+    "Page_1.By_signing_up__you_accept_our_Terms_of_Use_and_Privacy_Policy.": "By signing up, you accept our <u>Terms of Use<\/u> and <u>Privacy Policy<\/u>.",
+    "Page_1.E-mail": "E-mail",
+    "Page_1.••••••••••••••": "••••••••••••••",
+    "Page_1.Input.Better": "Better",
+    "Group_843.Group_907.Login": "Making a change to this key",
+    "Page_2.Our_goal_is_to_eliminate_the_hassle_of_localization_by_providing_tools_to_automate__integrate_and_better_manage_your_translations._Lokalise_is_a_better_way_for_growth-oriented_companies_to_expand_thei": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate and better manage your translations. Lokalise is a better way for growth-oriented companies to expand their mobile apps, games, software or digital content into multiple languages."
+}

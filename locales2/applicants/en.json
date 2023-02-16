@@ -1,20 +1,24 @@
 {
-  "name": "John",
-  "age": 35,
-  "occupation": "software engineer",
-  "employer": "Acme Corporation",
-  "salary": 100000,
-  "address": {
-    "street": "123 Main St",
-    "city": "Anytown",
-    "state": "CA",
-    "zip": "12345"
-  },
-  "hobbies": ["reading", "hiking", "playing guitar"],
-  "favorite_color": "blue",
-  "education": {
-    "degree": "Bachelor of Science",
-    "major": "Computer Science",
-    "university": "University of California, Los Angeles"
-  }
+    "name": "John",
+    "age": "35",
+    "occupation": "software engineer",
+    "employer": "Acme Corporation",
+    "salary": "100000",
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+    },
+    "hobbies": [
+        "reading",
+        "hiking",
+        "playing guitar"
+    ],
+    "favorite_color": "blue",
+    "education": {
+        "degree": "Bachelor of Science",
+        "major": "Computer Science",
+        "university": "University of California, Los Angeles"
+    }
 }

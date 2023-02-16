@@ -1,15 +1,27 @@
 {
-  "title": "To Kill a Mockingbird",
-  "author": "Harper Lee",
-  "genre": "novel",
-  "publication_year": 1960,
-  "publisher": "J. B. Lippincott & Co.",
-  "awards": ["Pulitzer Prize for Fiction", "Presidential Medal of Freedom"],
-  "characters": ["Atticus Finch", "Scout Finch", "Jem Finch", "Tom Robinson"],
-  "setting": {
-    "time_period": "1930s",
-    "location": "Maycomb, Alabama"
-  },
-  "narrator": "Scout Finch",
-  "themes": ["racial injustice", "courage", "compassion"]
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "novel",
+    "publication_year": "1960",
+    "publisher": "J. B. Lippincott & Co.",
+    "awards": [
+        "Pulitzer Prize for Fiction",
+        "Presidential Medal of Freedom"
+    ],
+    "characters": [
+        "Atticus Finch",
+        "Scout Finch",
+        "Jem Finch",
+        "Tom Robinson"
+    ],
+    "setting": {
+        "time_period": "1930s",
+        "location": "Maycomb, Alabama"
+    },
+    "narrator": "Scout Finch",
+    "themes": [
+        "racial injustice",
+        "courage",
+        "compassion"
+    ]
 }
