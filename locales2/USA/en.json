@@ -8,5 +8,6 @@
   "president": "Joe Biden",
   "flag_colors": ["red", "white", "blue"],
   "national_animal": "bald eagle",
-  "national_flower": "rose"
+  "national_flower": "rose",
+  "new_key": "this is a new key being added."
 }
