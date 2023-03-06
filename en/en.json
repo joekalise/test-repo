@@ -1,22 +1,23 @@
 {
-    "menu": {
-        "en": "English",
-        "es": "Spanish",
-        "home": "Home",
-        "about": "About",
-        "privacy": "Privacy Policy"
+    "page_1": {
+        "register": "Register",
+        "better@lokalise.com": "better@lokalise.com",
+        "password": "Password",
+        "or_signup_with_your_e-mail": "Or signup with your e-mail",
+        "sign-in_with_google": "Sign-in with Google",
+        "full_name": "Full name",
+        "by_signing_up__you_accept_our_terms_of_use_and_privacy_policy.": "By signing up, you accept our <u>Terms of Use<\/u> and <u>Privacy Policy<\/u>.",
+        "e-mail": "E-mail",
+        "••••••••••••••": "••••••••••••••",
+        "better": "Better"
     },
-    "main": {
-        "welcome": "Hello from Lokalise!",
-        "new_message": "no messages | one message | {count} messages",
-        "tms": "Lokalise is a TMS",
-        "g2": "Read about us on G2",
-        "new_key": "This is a new key",
-        "get2know": "Get to know Lokalise",
-        "get2know_message": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate and better manage your translations. Lokalise is a better way for growth-oriented companies to expand their mobile apps, games, software or digital content into multiple languages.",
-        "test_key": "Adding a key for demo purposes"
+    "page_2": {
+        "get_to_know_lokalise_better": "Get to know Lokalise better",
+        "30": "30",
+        "you_are_logged_on_in_1_location": "You are logged on in 1 location",
+        "our_goal_is_to_eliminate_the_hassle_of_localization_by_providing_tools_to_automate__integrate_and_better_manage_your_translations._lokalise_is_a_better_way_for_growth-oriented_companies_to_expand_thei": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate and better manage your translations. Lokalise is a better way for growth-oriented companies to expand their mobile apps, games, software or digital content into multiple languages."
     },
-    "about": {
-        "welcome": "Welcome to the About page!"
+    "group_843": {
+        "login": "Login"
     }
 }

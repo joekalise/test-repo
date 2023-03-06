@@ -1,0 +1,23 @@
+{
+    "page_1": {
+        "register": "Rekisteröidy",
+        "better@lokalise.com": "better@lokalise.com",
+        "password": "Salasana",
+        "or_signup_with_your_e-mail": "Tai ilmoittaudu sähköpostillasi",
+        "sign-in_with_google": "Kirjaudu sisään Googlella",
+        "full_name": "Koko nimi",
+        "by_signing_up__you_accept_our_terms_of_use_and_privacy_policy.": "Rekisteröitymällä hyväksyt <u> käyttöehtomme <\/u> ja <u> tietosuojakäytäntömme <\/u> .",
+        "e-mail": "Sähköposti",
+        "••••••••••••••": "••••••••••••••",
+        "better": "Paremmin"
+    },
+    "page_2": {
+        "get_to_know_lokalise_better": "Tutustu Lokaliseen paremmin",
+        "30": "30",
+        "you_are_logged_on_in_1_location": "Olet kirjautunut sisään 1 paikassa",
+        "our_goal_is_to_eliminate_the_hassle_of_localization_by_providing_tools_to_automate__integrate_and_better_manage_your_translations._lokalise_is_a_better_way_for_growth-oriented_companies_to_expand_thei": "Tavoitteemme on poistaa lokalisoinnin vaivat tarjoamalla työkaluja käännöstesi automatisointiin, integrointiin ja hallintaan. Lokalise on parempi tapa kasvuhakuisille yrityksille laajentaa mobiilisovelluksiaan, pelejä, ohjelmistoja tai digitaalista sisältöä useille kielille."
+    },
+    "group_843": {
+        "login": "Kirjaudu sisään"
+    }
+}

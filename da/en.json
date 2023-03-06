@@ -1,0 +1,23 @@
+{
+    "page_1": {
+        "register": "Tilmeld",
+        "better@lokalise.com": "bedre@lokalise.com",
+        "password": "Adgangskode",
+        "or_signup_with_your_e-mail": "Eller tilmeld dig med din e-mail",
+        "sign-in_with_google": "Log ind med Google",
+        "full_name": "Fulde navn",
+        "by_signing_up__you_accept_our_terms_of_use_and_privacy_policy.": "Ved at tilmelde dig accepterer du vores <u> Brugervilkår <\/u> og <u> Privatlivspolitik <\/u> .",
+        "e-mail": "E-mail",
+        "••••••••••••••": "••••••••••••••",
+        "better": "Bedre"
+    },
+    "page_2": {
+        "get_to_know_lokalise_better": "Lær Lokalise bedre at kende",
+        "30": "30",
+        "you_are_logged_on_in_1_location": "Du er logget på 1 lokation",
+        "our_goal_is_to_eliminate_the_hassle_of_localization_by_providing_tools_to_automate__integrate_and_better_manage_your_translations._lokalise_is_a_better_way_for_growth-oriented_companies_to_expand_thei": "Vores mål er at eliminere besværet med lokalisering ved at levere værktøjer til at automatisere, integrere og bedre administrere dine oversættelser. Lokalise er en bedre måde for vækstorienterede virksomheder at udvide deres mobile apps, spil, software eller digitalt indhold til flere sprog."
+    },
+    "group_843": {
+        "login": "Log på"
+    }
+}
