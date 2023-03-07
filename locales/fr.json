@@ -14,7 +14,10 @@
         "get2know": "Découvrez Localise",
         "get2know_message": "Notre objectif est d'éliminer les tracas de la localisation en fournissant des outils pour automatiser, intégrer et mieux gérer vos traductions. Lokalise est un meilleur moyen pour les entreprises axées sur la croissance d'étendre leurs applications mobiles, leurs jeux, leurs logiciels ou leur contenu numérique dans plusieurs langues.",
         "test_key": "Ajout d'une clé à des fins de démonstration",
-        "test-demo": "Il s'agit d'une clé de démonstration."
+        "test-demo": "Il s'agit d'une clé de démonstration.",
+        "sign-in": "Connectez-vous avec Google",
+        "demo-key": "Il s'agit d'une clé de démonstration.",
+        "demo-key2": "Il s'agit d'une nouvelle clé de démonstration pour LGC."
     },
     "about": {
         "welcome": "Bienvenue sur la page À propos !"
