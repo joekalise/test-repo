@@ -16,7 +16,8 @@
         "test_key": "Adding a key for demo purposes",
         "test-demo": "This is a demo key.",
         "sign-in": "Sign in with Google",
-        "demo-key": "This is a demo key."
+        "demo-key": "This is a demo key.",
+        "demo-key2": "This is a new demo key for LGC."
     },
     "about": {
         "welcome": "Welcome to the About page!"
