@@ -15,9 +15,7 @@
         "get2know_message": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate and better manage your translations. Lokalise is a better way for growth-oriented companies to expand their mobile apps, games, software or digital content into multiple languages.",
         "test_key": "Adding a key for demo purposes",
         "test-demo": "This is a demo key.",
-        "sign-in": "Sign in with Google",
-        "demo-key": "This is a demo key.",
-        "test-key": "checking"
+        "sign-in": "Sign in with Google"
     },
     "about": {
         "welcome": "Welcome to the About page!"
