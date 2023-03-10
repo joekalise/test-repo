@@ -17,7 +17,7 @@
         "test-demo": "This is a demo key.",
         "sign-in": "Sign in with Google",
         "test-demo": "To show the auto pull.",
-        "adding-key" "this is a new key"
+        "adding-key": "this is a new key"
     },
     "about": {
         "welcome": "Welcome to the About page!"
