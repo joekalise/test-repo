@@ -2,19 +2,19 @@
     "menu": {
         "home": "Maison",
         "about": "À propos de",
-        "privacy": "Politique de confidentialité"
+        "privacy": "politique de confidentialité"
     },
     "main": {
         "welcome": "Bonjour de Localise !",
         "about": "À propos de nous",
         "new_message": "aucun message | un message | {count} messages",
         "tms": "Lokalise est un TMS",
-        "new_key": "Ceci est une nouvelle clé",
         "g2": "Lisez à propos de nous sur G2",
         "get2know": "Découvrez Localise",
         "get2know_message": "Notre objectif est d'éliminer les tracas de la localisation en fournissant des outils pour automatiser, intégrer et mieux gérer vos traductions. Lokalise est un meilleur moyen pour les entreprises axées sur la croissance d'étendre leurs applications mobiles, leurs jeux, leurs logiciels ou leur contenu numérique dans plusieurs langues.",
-        "test_key": "Ajout d'une clé à des fins de démonstration",
-        "test-demo": "Il s'agit d'une clé de démonstration."
+        "sign-in": "Connectez-vous avec Google",
+        "test-key-jb": "clé de test pour joe et boulon",
+        "test-key-lgc": "clé de test pour Joe LGC"
     },
     "about": {
         "welcome": "Bienvenue sur la page À propos !"
