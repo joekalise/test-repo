@@ -1,22 +1,50 @@
 {
-    "menu": {
-        "en": "Anglais",
-        "es": "Espagnol",
-        "home": "Maison",
-        "about": "À propos de",
-        "privacy": "Politique de confidentialité"
+    "DevelopmentComponents": {
+        "GameArt": "Composants artistiques incorporés dans un jeu.",
+        "GameDesign": "Le processus de création du contenu et des règles d’un jeu.",
+        "GameSound": "Tous les sons utilisés dans un jeu."
     },
-    "main": {
-        "welcome": "Bonjour de Localise !",
-        "new_message": "aucun message | un message | {count} messages",
-        "tms": "Lokalise est un TMS",
-        "g2": "Lisez à propos de nous sur G2",
-        "new_key": "Ceci est une nouvelle clé",
-        "get2know": "Découvrez Localise",
-        "get2know_message": "Notre objectif est d'éliminer les tracas de la localisation en fournissant des outils pour automatiser, intégrer et mieux gérer vos traductions. Lokalise est un meilleur moyen pour les entreprises axées sur la croissance d'étendre leurs applications mobiles, leurs jeux, leurs logiciels ou leur contenu numérique dans plusieurs langues.",
-        "test_key": "Ajout d'une clé à des fins de démonstration"
+    "GameControls": {
+        "GameController": "Un appareil utilisé pour contrôler les jeux vidéo.",
+        "Keyboard": "Souvent utilisé en combinaison avec une souris pour contrôler les jeux PC.",
+        "Mouse": "Souvent utilisé en combinaison avec un clavier pour contrôler les jeux PC."
     },
-    "about": {
-        "welcome": "Bienvenue sur la page À propos ! Change here."
+    "GameGenres": {
+        "Action": "Un jeu d’action oblige les joueurs à utiliser des réflexes rapides, de la précision et du timing pour surmonter les obstacles.",
+        "Adventure": "Les jeux d'aventure impliquent souvent une histoire ou des éléments d'exploration. Ceux-ci peuvent se dérouler dans de nombreux contextes différents, comme des mondes fantastiques ou des contextes historiques.",
+        "RPG": "Jeux de rôle, dans lesquels les joueurs assument le rôle de personnages dans un décor fictif."
+    },
+    "GameGraphics": {
+        "AugmentedReality": "Un type de graphisme de jeu vidéo qui superpose les visuels du jeu sur le propre environnement du joueur.",
+        "VirtualReality": "Un type de graphisme de jeu vidéo qui plonge complètement l'utilisateur dans un environnement 3D."
+    },
+    "GameInteractions": {
+        "GameCommunity": "Une communauté qui se forme autour d’un jeu ou d’un genre spécifique.",
+        "GameForum": "Un site de discussion en ligne où les joueurs de jeux vidéo peuvent discuter de divers sujets.",
+        "GameGuide": "Une ressource numérique ou imprimée permettant aux joueurs de comprendre et d'exceller dans un jeu.",
+        "GameResource": "Une ressource pour offrir à l’utilisateur la meilleure expérience."
+    },
+    "GameModes": {
+        "Multiplayer": "Un type de jeu qui permet à plusieurs personnes de jouer ensemble dans une certaine mesure.",
+        "SinglePlayer": "Jeux conçus pour être joués par un seul joueur."
+    },
+    "GamePlatformTypes": {
+        "Console": "Type de plate-forme de jeu qui est généralement un appareil fixe qui se connecte à un téléviseur.",
+        "Mobile": "Un type de jeu joué sur un appareil mobile comme les smartphones et les tablettes.",
+        "PC": "Un jeu joué sur un ordinateur personnel plutôt que sur une console."
+    },
+    "MarketingTerms": {
+        "DLC": "Contenu supplémentaire ajouté à un jeu déjà sorti.",
+        "EarlyAccess": "Un modèle où les consommateurs peuvent payer pour un jeu en développement et accéder aux versions préliminaires."
+    },
+    "PlayingStyle": {
+        "Casual": "Des jeux conçus pour être faciles à apprendre et à jouer et qui ne nécessitent pas un investissement de temps important pour en profiter.",
+        "Indie": "Jeux développés sans le soutien financier d’un éditeur.",
+        "ProGaming": "Les gens jouent à des jeux à un niveau professionnel et compétitif."
+    },
+    "StreamingPlatforms": {
+        "Twitch": "Une plateforme populaire pour la diffusion de jeux vidéo en direct.",
+        "X": "Le service de Twitter permettant aux utilisateurs de télécharger des vidéos et du contenu.",
+        "YouTubeGaming": "Le service YouTube permettant aux utilisateurs de diffuser, télécharger et explorer du contenu de jeux vidéo."
     }
 }

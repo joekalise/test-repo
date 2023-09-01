@@ -1,0 +1,50 @@
+{
+    "DevelopmentComponents": {
+        "GameArt": "Elementy artystyczne włączone do gry.",
+        "GameDesign": "Proces tworzenia treści i zasad gry.",
+        "GameSound": "Wszystkie dźwięki używane w grze."
+    },
+    "GameControls": {
+        "GameController": "Urządzenie służące do sterowania grami wideo.",
+        "Keyboard": "Często używany w połączeniu z myszą do sterowania grami komputerowymi.",
+        "Mouse": "Często używany w połączeniu z klawiaturą do sterowania grami komputerowymi."
+    },
+    "GameGenres": {
+        "Action": "Gra akcji wymaga od graczy szybkiego refleksu, dokładności i wyczucia czasu, aby pokonać przeszkody.",
+        "Adventure": "Gry przygodowe często zawierają fabułę lub elementy eksploracji. Mogą one rozgrywać się w wielu różnych sceneriach, takich jak światy fantasy lub miejsca historyczne.",
+        "RPG": "Gry fabularne, w których gracze wcielają się w postacie w fikcyjnej scenerii."
+    },
+    "GameGraphics": {
+        "AugmentedReality": "Rodzaj grafiki gier wideo, która nakłada elementy wizualne gry na środowisko gracza.",
+        "VirtualReality": "Rodzaj grafiki gier wideo, która całkowicie zanurza użytkownika w środowisku 3D."
+    },
+    "GameInteractions": {
+        "GameCommunity": "Społeczność tworząca się wokół określonej gry lub gatunku.",
+        "GameForum": "Internetowy serwis dyskusyjny, w którym gracze grający w gry wideo mogą omawiać różne tematy.",
+        "GameGuide": "Cyfrowe lub drukowane zasoby umożliwiające graczom zrozumienie gry i osiągnięcie w niej doskonałości.",
+        "GameResource": "Zasób zapewniający użytkownikowi najlepsze doświadczenia."
+    },
+    "GameModes": {
+        "Multiplayer": "Rodzaj gry, który umożliwia wspólną zabawę wielu osobom w określonym charakterze.",
+        "SinglePlayer": "Gry przeznaczone do grania przez jednego gracza."
+    },
+    "GamePlatformTypes": {
+        "Console": "Rodzaj platformy do gier, która zazwyczaj jest urządzeniem stacjonarnym podłączanym do telewizora.",
+        "Mobile": "Rodzaj gry, w którą można grać na urządzeniu mobilnym, takim jak smartfony i tablety.",
+        "PC": "Gra, w którą można grać na komputerze osobistym, a nie na konsoli."
+    },
+    "MarketingTerms": {
+        "DLC": "Dodatkowa zawartość dodana do już wydanej gry.",
+        "EarlyAccess": "Model, w którym konsumenci mogą zapłacić za grę w fazie tworzenia i uzyskać dostęp do wersji przedpremierowych."
+    },
+    "PlayingStyle": {
+        "Casual": "Gry zaprojektowane tak, aby były łatwe do nauczenia się i grania, a które nie wymagają znacznych inwestycji czasowych.",
+        "Indie": "Gry, które powstały bez wsparcia finansowego wydawcy.",
+        "ProGaming": "Ludzie grający w gry na profesjonalnym, konkurencyjnym poziomie."
+    },
+    "StreamingPlatforms": {
+        "Twitch": "Popularna platforma do strumieniowego przesyłania gier wideo na żywo.",
+        "X": "Usługa Twittera umożliwiająca przesyłanie filmów i treści.",
+        "YouTubeGaming": "Usługa YouTube umożliwiająca strumieniowe przesyłanie, przesyłanie i przeglądanie treści z gier wideo."
+    }
+}
