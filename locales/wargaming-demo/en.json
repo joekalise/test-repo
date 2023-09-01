@@ -43,6 +43,7 @@
     "GameInteractions": {
         "GameCommunity": "A community that forms around a specific game or genre.",
         "GameForum": "An online discussion site where video game players can discuss various topics.",
-        "GameGuide": "A digital or printed resource for players to understand and excel at a game."
+        "GameGuide": "A digital or printed resource for players to understand and excel at a game.",
+        "GameResource": "A resource to provide the user with the best experience."
     }
 }
