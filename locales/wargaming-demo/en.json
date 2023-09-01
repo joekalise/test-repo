@@ -39,7 +39,8 @@
     },
     "GameGraphics": {
         "VirtualReality": "A type of video game graphics that fully immerses the user in a 3D environment.",
-        "AugmentedReality": "A type of video game graphics that overlay game visuals onto the player's own environment."
+        "AugmentedReality": "A type of video game graphics that overlay game visuals onto the player's own environment.",
+        "new-key-demo": "This is a new key for demo purposes."
     },
     "GameInteractions": {
         "GameCommunity": "A community that forms around a specific game or genre.",
