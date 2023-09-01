@@ -39,7 +39,8 @@
     },
     "GameGraphics": {
         "VirtualReality": "Eine Art Videospielgrafik, die den Benutzer vollständig in eine 3D-Umgebung eintauchen lässt.",
-        "AugmentedReality": "Eine Art von Videospielgrafiken, die Spielvisualisierungen über die eigene Umgebung des Spielers legen."
+        "AugmentedReality": "Eine Art von Videospielgrafiken, die Spielvisualisierungen über die eigene Umgebung des Spielers legen.",
+        "new-key-demo": "Dies ist ein neuer Schlüssel für Demozwecke."
     },
     "GameInteractions": {
         "GameCommunity": "Eine Community, die sich rund um ein bestimmtes Spiel oder Genre bildet.",

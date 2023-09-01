@@ -1,0 +1,51 @@
+{
+    "GameGenres": {
+        "Action": "Egy akciójáték megköveteli a játékosoktól, hogy gyors reflexeket, pontosságot és időzítést alkalmazzanak az akadályok leküzdéséhez.",
+        "Adventure": "A kalandjátékok gyakran tartalmaznak egy történetet vagy a felfedezés elemeit. Ezek számos különböző beállításban, például fantáziavilágban vagy történelmi környezetben állíthatók be.",
+        "RPG": "Szerepjátékok, ahol a játékosok karakterek szerepét öltik magukra egy kitalált környezetben."
+    },
+    "GamePlatformTypes": {
+        "Console": "A játékplatform típusa, amely jellemzően egy álló eszköz, amely TV-hez csatlakozik.",
+        "PC": "Személyi számítógépen játszott játék, nem pedig konzolon.",
+        "Mobile": "Mobileszközökön, például okostelefonokon és táblagépeken játszott játéktípus."
+    },
+    "GameModes": {
+        "SinglePlayer": "Olyan játékok, amelyeket úgy terveztek, hogy egy játékos játszhasson.",
+        "Multiplayer": "Olyan játéktípus, amely lehetővé teszi több ember számára, hogy bizonyos minőségben együtt játsszanak."
+    },
+    "DevelopmentComponents": {
+        "GameDesign": "A játék tartalmának és szabályainak megalkotásának folyamata.",
+        "GameArt": "A játékba beépített művészi összetevők.",
+        "GameSound": "A játékban használt összes hang."
+    },
+    "StreamingPlatforms": {
+        "Twitch": "Népszerű platform a videojátékok élő közvetítésére.",
+        "YouTubeGaming": "A YouTube szolgáltatása az emberek számára videojáték-tartalmak streameléséhez, feltöltéséhez és felfedezéséhez.",
+        "X": "A Twitter szolgáltatása, amely lehetővé teszi az emberek számára, hogy videókat és tartalmakat töltsenek fel."
+    },
+    "PlayingStyle": {
+        "ProGaming": "Professzionális, versenyképes szinten játszó emberek.",
+        "Casual": "Olyan játékok, amelyek könnyen megtanulhatók és játszhatók, és nem igényelnek jelentős időbefektetést.",
+        "Indie": "Olyan játékok, amelyeket kiadó pénzügyi támogatása nélkül fejlesztettek ki."
+    },
+    "MarketingTerms": {
+        "EarlyAccess": "Egy olyan modell, amelyben a fogyasztók fizethetnek egy fejlesztés alatt álló játékért, és hozzáférhetnek a kiadás előtti verziókhoz.",
+        "DLC": "További letölthető tartalom, amelyet egy már kiadott játékhoz adnak hozzá."
+    },
+    "GameControls": {
+        "GameController": "Videojátékok vezérlésére használt eszköz.",
+        "Keyboard": "Gyakran használják egérrel kombinálva PC-játékok vezérlésére.",
+        "Mouse": "Gyakran használják billentyűzettel kombinálva számítógépes játékok vezérlésére."
+    },
+    "GameGraphics": {
+        "VirtualReality": "Egyfajta videojáték-grafika, amely teljesen elmeríti a felhasználót a 3D-s környezetben.",
+        "AugmentedReality": "A videojáték-grafikák egy fajtája, amely a játék vizualitását a játékos saját környezetére fedi.",
+        "new-key-demo": "Ez egy új kulcs demo célokra."
+    },
+    "GameInteractions": {
+        "GameCommunity": "Egy adott játék vagy műfaj köré épülő közösség.",
+        "GameForum": "Egy online vitalap, ahol a videojátékosok különféle témákat vitathatnak meg.",
+        "GameGuide": "Digitális vagy nyomtatott forrás a játékosok számára, hogy megértsék és kitűnjenek a játékban.",
+        "GameResource": "Erőforrás, amely a legjobb élményt nyújtja a felhasználónak."
+    }
+}

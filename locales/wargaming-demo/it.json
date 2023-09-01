@@ -1,0 +1,51 @@
+{
+    "GameGenres": {
+        "Action": "Un gioco d'azione richiede ai giocatori di utilizzare riflessi rapidi, precisione e tempismo per superare gli ostacoli.",
+        "Adventure": "I giochi di avventura spesso implicano una trama o elementi di esplorazione. Questi possono essere ambientati in molte ambientazioni diverse, come mondi fantastici o ambientazioni storiche.",
+        "RPG": "Giochi di ruolo, in cui i giocatori assumono il ruolo di personaggi in un ambiente immaginario."
+    },
+    "GamePlatformTypes": {
+        "Console": "Un tipo di piattaforma di gioco che in genere è un dispositivo fisso che si collega a una TV.",
+        "PC": "Un gioco giocato su un personal computer anziché su una console.",
+        "Mobile": "Un tipo di gioco giocato su un dispositivo mobile come smartphone e tablet."
+    },
+    "GameModes": {
+        "SinglePlayer": "Giochi progettati per essere giocati da un solo giocatore.",
+        "Multiplayer": "Un tipo di gioco che consente a più persone di giocare insieme in qualche modo."
+    },
+    "DevelopmentComponents": {
+        "GameDesign": "Il processo di creazione del contenuto e delle regole di un gioco.",
+        "GameArt": "Componenti artistici incorporati in un gioco.",
+        "GameSound": "Tutti i suoni utilizzati in un gioco."
+    },
+    "StreamingPlatforms": {
+        "Twitch": "Una piattaforma popolare per i videogiochi in live streaming.",
+        "YouTubeGaming": "Il servizio di YouTube che consente alle persone di trasmettere in streaming, caricare ed esplorare contenuti di videogiochi.",
+        "X": "Il servizio di Twitter che consente alle persone di caricare video e contenuti."
+    },
+    "PlayingStyle": {
+        "ProGaming": "Persone che giocano a livello professionale e competitivo.",
+        "Casual": "Giochi progettati per essere facili da imparare e da giocare e che non richiedono un investimento di tempo significativo per divertirsi.",
+        "Indie": "Giochi sviluppati senza il supporto finanziario di un editore."
+    },
+    "MarketingTerms": {
+        "EarlyAccess": "Un modello in cui i consumatori possono pagare per un gioco in fase di sviluppo e ottenere l'accesso alle versioni pre-release.",
+        "DLC": "Contenuto scaricabile aggiuntivo che viene aggiunto a un gioco già rilasciato."
+    },
+    "GameControls": {
+        "GameController": "Un dispositivo utilizzato per controllare i videogiochi.",
+        "Keyboard": "Spesso utilizzato in combinazione con un mouse per controllare i giochi per PC.",
+        "Mouse": "Spesso utilizzato in combinazione con una tastiera per controllare i giochi per PC."
+    },
+    "GameGraphics": {
+        "VirtualReality": "Un tipo di grafica per videogiochi che immerge completamente l'utente in un ambiente 3D.",
+        "AugmentedReality": "Un tipo di grafica per videogiochi che sovrappone le immagini del gioco all'ambiente del giocatore.",
+        "new-key-demo": "Questa è una nuova chiave a scopo dimostrativo."
+    },
+    "GameInteractions": {
+        "GameCommunity": "Una comunità che si forma attorno a un gioco o genere specifico.",
+        "GameForum": "Un sito di discussione online in cui i giocatori di videogiochi possono discutere di vari argomenti.",
+        "GameGuide": "Una risorsa digitale o stampata che consente ai giocatori di comprendere ed eccellere in un gioco.",
+        "GameResource": "Una risorsa per fornire all'utente la migliore esperienza."
+    }
+}
