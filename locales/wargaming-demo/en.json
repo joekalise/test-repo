@@ -20,7 +20,8 @@
     },
     "StreamingPlatforms": {
         "Twitch": "A popular platform for live streaming video games.",
-        "YouTubeGaming": "YouTube's service for people to stream, upload, and explore video game content."
+        "YouTubeGaming": "YouTube's service for people to stream, upload, and explore video game content.",
+        "X": "Twitter's service for allowing people to upload videos and content."
     },
     "PlayingStyle": {
         "ProGaming": "People playing games on a professional, competitive level.",
