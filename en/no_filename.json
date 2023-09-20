@@ -1,0 +1,21 @@
+{
+    "page_1": {
+        "remove_dock": "Remove dock",
+        "better": "Better",
+        "sign-in_with_google": "Sign-in with Google",
+        "password": "Password",
+        "full_name": "Full name",
+        "better@lokalise.com": "better@lokalise.com",
+        "by_signing_up": "By signing up, you accept our <u>Terms of Use<\/u> and <u>Privacy Policy<\/u>.",
+        "register": "Register",
+        "sign-in": "Sign-in",
+        "e-mail": "E-mail"
+    },
+    "group_843": {
+        "login": "Login"
+    },
+    "page_2": {
+        "our_goal": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate and better manage your translations. Lokalise is a better way for growth-oriented companies to expand their mobile apps, games, software or digital content into \\n multiple languages.",
+        "get_to_know": "Get to know Lokalise better"
+    }
+}

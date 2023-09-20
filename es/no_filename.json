@@ -1,0 +1,21 @@
+{
+    "page_1": {
+        "remove_dock": "Quitar muelle",
+        "better": "Mejorp",
+        "sign-in_with_google": "Inicia sesión con Google",
+        "password": "Clave",
+        "full_name": "Nombre completo",
+        "better@lokalise.com": "mejor@lokalise.com",
+        "by_signing_up": "Al registrarse, acepta nuestras <u> Condiciones de uso <\/u> y <u> Política de privacidad <\/u> .",
+        "register": "Registro",
+        "sign-in": "Regístrese en",
+        "e-mail": "Correo electrónico"
+    },
+    "group_843": {
+        "login": "Iniciar sesión"
+    },
+    "page_2": {
+        "our_goal": "Nuestro objetivo es eliminar las molestias de la localización proporcionando herramientas para automatizar, integrar y administrar mejor sus traducciones. Lokalise es una mejor manera para que las empresas orientadas al crecimiento amplíen sus aplicaciones móviles, juegos, software o contenido digital a varios idiomas.",
+        "get_to_know": "Conoce mejor Lokalise"
+    }
+}
