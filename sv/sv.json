@@ -1,0 +1,21 @@
+{
+    "menu": {
+        "home": "Hem",
+        "about": "Om",
+        "privacy": "Integritetspolicy"
+    },
+    "main": {
+        "welcome": "Hej från Lokalise!",
+        "about": "Om oss",
+        "new_message": "inga meddelanden | ett meddelande | {antal} meddelanden",
+        "tms": "Lokalise är en TMS",
+        "g2": "Läs om oss på G2",
+        "get2know": "Lär känna Lokalise bättre",
+        "get2know_message": "Vårt mål är att eliminera krånglet med lokalisering genom att tillhandahålla verktyg för att automatisera, integrera och bättre hantera dina översättningar. Lokalise är ett bättre sätt för tillväxtorienterade företag att expandera sina mobilappar, spel, program eller digitalt innehåll till \n till flera språk.",
+        "sign-in": "Logga in med Google",
+        "register-button": "Register"
+    },
+    "about": {
+        "welcome": "Välkommen till sidan Om!"
+    }
+}

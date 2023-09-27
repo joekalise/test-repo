@@ -1,0 +1,21 @@
+{
+    "menu": {
+        "home": "Strona główna",
+        "about": "O",
+        "privacy": "Polityka prywatności"
+    },
+    "main": {
+        "welcome": "Cześć od Lokalise!",
+        "about": "O nas",
+        "new_message": "brak wiadomości | jedna wiadomość | {liczba} wiadomości",
+        "tms": "Lokalise to TMS",
+        "g2": "Przeczytaj o nas na G2",
+        "get2know": "Poznaj lepiej Lokalise",
+        "get2know_message": "Naszym celem jest usprawnienie procesu lokalizacji, dostarczając narzędzi do automatyzacji, integracji i efektywnego zarządzania tłumaczeniami. Lokalise to doskonałe rozwiązanie dla dynamicznie rozwijających się firm, które chcą wprowadzić swoje aplikacje mobilne, gry, oprogramowanie czy treści cyfrowe na rynki wielojęzyczne.",
+        "sign-in": "Logowanie za pomocą Google",
+        "register-button": "Rejestr"
+    },
+    "about": {
+        "welcome": "Witamy na stronie Informacje!"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "menu": {
+        "home": "Etusivu",
+        "about": "Tietoja",
+        "privacy": "Tietosuojakäytäntö"
+    },
+    "main": {
+        "welcome": "Hei Lokalise!",
+        "about": "Tietoa meistä",
+        "new_message": "ei viestejä | yksi viesti | {count} viestejä",
+        "tms": "Lokalise on TMS",
+        "g2": "Lue meistä G2-sivustolta",
+        "get2know": "Tutustu Lokaliseen paremmin",
+        "get2know_message": "Tavoitteenamme on poistaa vaivaa lokalisointi tarjoamalla työkaluja automatisoida, integroida ja hallita paremmin käännöksiä. Lokalise on kasvuun suuntautuneille yrityksille parempi tapa laajentaa mobiilisovelluksiaan, pelejään, ohjelmistojaan tai digitaalista sisältöään osaksi \n useille kielille.",
+        "sign-in": "Kirjaudu sisään Googlen avulla",
+        "register-button": "Rekisteröi"
+    },
+    "about": {
+        "welcome": "Tervetuloa Tietoja-sivulle!"
+    }
+}
