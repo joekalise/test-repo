@@ -1,50 +1,22 @@
 {
-    "GameGenres": {
-        "Action": "Un juego de acción requiere que los jugadores utilicen reflejos rápidos, precisión y sincronización para superar obstáculos.",
-        "Adventure": "Los juegos de aventuras a menudo implican una trama o elementos de exploración. Estos pueden estar ambientados en muchos escenarios diferentes, como mundos de fantasía o escenarios históricos.",
-        "RPG": "Juegos de rol, donde los jugadores asumen los roles de personajes en un escenario ficticio."
+    "menu": {
+        "home": "Hogar",
+        "about": "Sobre",
+        "privacy": "Política de privacidad"
     },
-    "GamePlatformTypes": {
-        "Console": "Un tipo de plataforma de juego que suele ser un dispositivo estacionario que se conecta a un televisor.",
-        "PC": "Un juego que se juega en una computadora personal en lugar de en una consola.",
-        "Mobile": "Un tipo de juego que se juega en un dispositivo móvil como teléfonos inteligentes y tabletas."
+    "main": {
+        "welcome": "!Hola desde Lokalise!",
+        "about": "Sobre nosotros",
+        "new_message": "ningún mensaje | un mensaje | {count} mensajes",
+        "tms": "Lokalise es un TMS german",
+        "g2": "Lea sobre nosotros en G2 change",
+        "get2know": "Conozca mejor a Lokalise",
+        "get2know_message": "Nuestro objetivo es eliminar las molestias de la localización proporcionando herramientas para automatizar, integrar y administrar mejor sus traducciones. Lokalise es una mejor manera para que las empresas orientadas al crecimiento amplíen sus aplicaciones móviles, juegos, software o contenido digital a varios idiomas.",
+        "sign-in": "Inicia sesión con Google",
+        "register-button": "Change being made",
+        "demo-key-tumelo": "Esta es una clave para fines de demostración."
     },
-    "GameModes": {
-        "SinglePlayer": "Juegos diseñados para ser jugados por un solo jugador.",
-        "Multiplayer": "Un tipo de juego que permite que varias personas jueguen juntas de alguna manera."
-    },
-    "DevelopmentComponents": {
-        "GameDesign": "El proceso de creación del contenido y las reglas de un juego.",
-        "GameArt": "Componentes artísticos que se incorporan a un juego.",
-        "GameSound": "Todos los sonidos que se utilizan en un juego."
-    },
-    "StreamingPlatforms": {
-        "Twitch": "Una plataforma popular para la transmisión de videojuegos en vivo.",
-        "YouTubeGaming": "El servicio de YouTube para que las personas transmitan, carguen y exploren contenido de videojuegos.",
-        "X": "Servicio de Twitter para permitir a las personas subir vídeos y contenidos."
-    },
-    "PlayingStyle": {
-        "ProGaming": "Personas que juegan a un nivel profesional y competitivo.",
-        "Casual": "Juegos que están diseñados para ser fáciles de aprender y jugar y que no requieren una inversión significativa de tiempo para disfrutarlos.",
-        "Indie": "Juegos que se desarrollan sin el apoyo financiero de un editor."
-    },
-    "MarketingTerms": {
-        "EarlyAccess": "Un modelo en el que los consumidores pueden pagar por un juego en desarrollo y obtener acceso a versiones preliminares.",
-        "DLC": "Contenido adicional que se agrega a un juego ya lanzado."
-    },
-    "GameControls": {
-        "GameController": "Dispositivo utilizado para controlar videojuegos.",
-        "Keyboard": "A menudo se utiliza en combinación con un ratón para controlar juegos de PC.",
-        "Mouse": "A menudo se utiliza en combinación con un teclado para controlar juegos de PC."
-    },
-    "GameGraphics": {
-        "VirtualReality": "Un tipo de gráfico de videojuego que sumerge completamente al usuario en un entorno 3D.",
-        "AugmentedReality": "Un tipo de gráficos de videojuego que superponen imágenes del juego en el propio entorno del jugador."
-    },
-    "GameInteractions": {
-        "GameCommunity": "Una comunidad que se forma en torno a un juego o género específico.",
-        "GameForum": "Un sitio de discusión en línea donde los jugadores de videojuegos pueden discutir diversos temas.",
-        "GameGuide": "Un recurso digital o impreso para que los jugadores comprendan y destaquen en un juego.",
-        "GameResource": "Un recurso para brindar al usuario la mejor experiencia."
+    "about": {
+        "welcome": "¡Bienvenido a la página Acerca de!"
     }
 }

@@ -1,0 +1,21 @@
+{
+    "page_1": {
+        "or_signup_with_your_e-mail": "または電子メールでサインアップしてください",
+        "better": "より良い",
+        "sign-in_with_google": "Googleでサインインする",
+        "password": "パスワード",
+        "full_name": "フルネーム",
+        "by_signing_up__you_accept_our_terms_of_use_and_privacy_policy.": "登録すると、 <u>利用規約<\/u>と<u>プライバシー ポリシー<\/u>に同意したことになります。TEST",
+        "register": "登録する",
+        "sign-in": "サインイン",
+        "e-mail": "Eメール"
+    },
+    "group_843": {
+        "login": "ログイン"
+    },
+    "page_2": {
+        "our_goal_is": "私たちの目標は、翻訳を自動化し、統合し、より適切に管理するためのツールを提供することにより、ローカリゼーションの煩わしさを解消することです。 Lokalise は、成長志向の企業がモバイル アプリ、ゲーム、ソフトウェア、またはデジタル コンテンツを複数の言語に拡張するための優れた方法です。",
+        "get_to_know_lokalise_better": "ロカリゼを知る"
+    },
+    "localisation": "ローカリゼーション"
+}

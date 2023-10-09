@@ -1,0 +1,21 @@
+{
+    "page_1": {
+        "or_signup_with_your_e-mail": "或使用您的电子邮件注册",
+        "better": "更好的",
+        "sign-in_with_google": "使用 Google 登录",
+        "password": "密码",
+        "full_name": "全名",
+        "by_signing_up__you_accept_our_terms_of_use_and_privacy_policy.": "注册即表示您接受我们的<u>使用条款<\/u>和<u>隐私政策<\/u> 。",
+        "register": "登记",
+        "sign-in": "登入",
+        "e-mail": "电子邮件"
+    },
+    "group_843": {
+        "login": "登录"
+    },
+    "page_2": {
+        "our_goal_is": "我们的目标是通过提供工具来自动化、集成和更好地管理您的翻译，从而消除本地化的麻烦。 Lokalise 是成长型公司将其移动应用程序、游戏、软件或数字内容扩展到多种语言的更好方式。",
+        "get_to_know_lokalise_better": "了解 Lokalise"
+    },
+    "localisation": "本土化"
+}
