@@ -1,7 +1,7 @@
 {
     "menu": {
-        "home": "Inicio",
-        "about": "Acerca de",
+        "home": "Hogar",
+        "about": "Sobre",
         "privacy": "Política de privacidad"
     },
     "main": {
@@ -9,14 +9,13 @@
         "about": "Sobre nosotros",
         "new_message": "ningún mensaje | un mensaje | {count} mensajes",
         "tms": "Lokalise es un TMS german",
-        "new_key": "Esta es una nueva clave",
         "g2": "Lea sobre nosotros en G2 change",
         "get2know": "Conoce Lokalise",
         "get2know_message": "Nuestro objetivo es eliminar las molestias de la localización proporcionando herramientas para automatizar, integrar y administrar mejor sus traducciones. Lokalise es una mejor manera para que las empresas orientadas al crecimiento amplíen sus aplicaciones móviles, juegos, software o contenido digital a varios idiomas.",
-        "test_key": "Adición de una clave con fines de demostración",
-        "test-demo": "Esta es una clave de demostración."
+        "sign-in": "Inicia sesión con Google",
+        "register-button": "Registro"
     },
     "about": {
-        "welcome": "!Bienvenido a la pagina 'Acerca de'!"
+        "welcome": "¡Bienvenido a la página Acerca de!"
     }
 }
