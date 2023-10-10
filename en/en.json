@@ -1,23 +1,20 @@
 {
-    "menu": {
-        "en": "English",
-        "es": "Spanish",
-        "home": "Home",
-        "about": "About",
-        "privacy": "Privacy Policy"
+    "page_1": {
+        "or_signup_with_your_e-mail": "Or signup with your e-mail",
+        "better": "Better",
+        "sign-in_with_google": "Sign-in with Google",
+        "password": "Password",
+        "full_name": "Full name",
+        "by_signing_up__you_accept_our_terms_of_use_and_privacy_policy.": "By signing up, you accept our <u>Terms of Use<\/u> and <u>Privacy Policy<\/u>.",
+        "register": "Register",
+        "sign-in": "Sign-in",
+        "e-mail": "E-mail"
     },
-    "main": {
-        "welcome": "Hello from Lokalise!",
-        "new_message": "no messages | one message | {count} messages",
-        "tms": "Lokalise is a TMS",
-        "g2": "Read about us on G2",
-        "new_key": "This is a new key",
-        "get2know": "Get to know Lokalise",
-        "get2know_message": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate and better manage your translations. Lokalise is a better way for growth-oriented companies to expand their mobile apps, games, software or digital content into multiple languages.",
-        "long-key_multiple-paras": "This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>",
-        "test_key": "Adding a key for demo purposes"
+    "group_843": {
+        "login": "Login"
     },
-    "about": {
-        "welcome": "Welcome to the About page!"
+    "page_2": {
+        "our_goal_is_to": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate and better manage your translations. Lokalise is a better way for growth-oriented companies to expand their mobile apps, games, software or digital content into multiple languages.",
+        "get_to_know": "Get to know Lokalise better"
     }
 }
