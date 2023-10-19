@@ -9,7 +9,8 @@
         "full_name": "Full name",
         "by_signing_up__you_accept_our_terms_of_use_and_privacy_policy.": "By signing up, you accept our <u>Terms of Use<\/u> and <u>Privacy Policy<\/u>.",
         "want_to_join_an_existing_team_instead?_login": "Want to join an existing Team instead? Login",
-        "e-mail": "E-mail"
+        "e-mail": "E-mail",
+        "signup-email": "Or signup with your e-mail"
     },
     "group_843": {
         "login": "Login"
