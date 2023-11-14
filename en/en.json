@@ -1,23 +1,15 @@
 {
-    "menu": {
-        "en": "English",
-        "es": "Spanish",
-        "home": "Home",
-        "about": "About",
-        "privacy": "Privacy Policy"
-    },
-    "main": {
-        "welcome": "Hello from Lokalise!",
-        "new_message": "no messages | one message | {count} messages",
-        "tms": "Lokalise is a TMS",
-        "g2": "Read about us on G2",
-        "new_key": "This is a new key",
-        "get2know": "Get to know Lokalise",
-        "get2know_message": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate and better manage your translations. Lokalise is a better way for growth-oriented companies to expand their mobile apps, games, software or digital content into multiple languages.",
-        "long-key_multiple-paras": "This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>",
-        "test_key": "Adding a key for demo purposes"
-    },
-    "about": {
-        "welcome": "Welcome to the About page!"
-    }
+    "Login": "Login",
+    "Or_signup_with_your_e-mail": "Or signup with your e-mail",
+    "Meet_Lokalise": "Meet Lokalise",
+    "Better": "Better",
+    "Sign_in_with_Google": "Sign in with Google",
+    "Register": "Register",
+    "Password": "Password",
+    "Full_name": "Full name",
+    "Our_goal_is_to_eliminate_localization_hassles_by_providing_tools_for_automation__integration_and_better_translation_management._Lokalise_is_a_better_way_for_growth-oriented_companies_to_extend_their_m": "Our goal is to eliminate localization hassles by providing tools for automation, integration and better translation management. Lokalise is a better way for growth-oriented companies to extend their mobile applications, games, software or digital content to multiple languages.",
+    "By_signing_up__you_accept_our_Terms_of_Use_and_Privacy_Policy.": "By signing up, you accept our <u>Terms of Use<\/u> and <u>Privacy Policy<\/u>.",
+    "Want_to_join_an_existing_Team_instead?_Login": "Want to join an existing Team instead? Login",
+    "30": "30",
+    "E-mail": "E-mail"
 }
