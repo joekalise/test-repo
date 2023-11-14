@@ -1,0 +1,37 @@
+{
+    "menu": {
+        "home": "Hem",
+        "about": "Handla om",
+        "privacy": "Integritetspolicy"
+    },
+    "main": {
+        "welcome": "Hej från Lokalise!",
+        "about": "Om oss",
+        "new_message": "inga meddelanden | ett meddelande | %1$s meddelanden",
+        "tms": "Lokalise är ett TMS",
+        "g2": "Läs om oss på G2",
+        "get2know": "Lär känna Lokalise bättre",
+        "get2know_message": "Vårt mål är att eliminera besväret med lokalisering genom att tillhandahålla verktyg för att automatisera, integrera och bättre hantera dina översättningar. Lokalise är ett bättre sätt för tillväxtorienterade företag att utöka sina mobilappar, spel, mjukvara eller digitalt innehåll till\n flera språk.",
+        "sign-in": "Logga in med Google",
+        "register-button": "Registrera",
+        "demo-key-websummit-haochen": "Mjukvarunyckel för att bevisa att Lokalise är fantastiskt."
+    },
+    "about": {
+        "welcome": "Välkommen till sidan Om!"
+    },
+    "page_1.or_signup_with_your_e-mail": "Ta bort dockan",
+    "group_843.login": "Logga in",
+    "page_2.30": "30",
+    "page_2.our_goal": "Vårt mål är att eliminera besväret med lokalisering genom att tillhandahålla verktyg för att automatisera, integrera och bättre hantera dina översättningar. Lokalise är ett bättre sätt för tillväxtorienterade företag att utöka sina mobilappar, spel, mjukvara eller digitalt innehåll till\n flera språk.",
+    "page_1.better": "Bättre",
+    "page_1.sign-in_with_google": "Logga in med Google",
+    "page_1.register": "Registrera",
+    "page_1.email": "better@lokalise.com",
+    "page_2.get_to_know_lokalise_better": "Lär känna Lokalise bättre",
+    "page_1.password": "Lösenord",
+    "page_1.full_name": "Fullständiga namn",
+    "page_1.privacy_policy.": "Genom att registrera dig accepterar du våra <u> Användarvillkor <\/u> och <u> Sekretesspolicy <\/u> .",
+    "page_1.register.8": "Borttagning av docka",
+    "page_1.••••••••••••••": "••••••••••••••",
+    "page_1.e-mail": "E-post"
+}

@@ -1,0 +1,37 @@
+{
+    "menu": {
+        "home": "Casa",
+        "about": "Di",
+        "privacy": "politica sulla riservatezza"
+    },
+    "main": {
+        "welcome": "Ciao da Lokalise!",
+        "about": "Chi siamo",
+        "new_message": "nessun messaggio | un messaggio | %1$s messaggi",
+        "tms": "Lokalise è un TMS",
+        "g2": "Leggi di noi su G2",
+        "get2know": "Conosci meglio Lokalise",
+        "get2know_message": "Il nostro obiettivo è eliminare il problema della localizzazione fornendo strumenti per automatizzare, integrare e gestire al meglio le traduzioni. Lokalise è un modo migliore per le aziende orientate alla crescita di espandere le loro applicazioni mobili, giochi, software o contenuti digitali in più lingue.",
+        "sign-in": "Accedi con Google",
+        "register-button": "Registrati",
+        "demo-key-websummit-haochen": "Chiave software per dimostrare che Lokalise è fantastico."
+    },
+    "about": {
+        "welcome": "Benvenuti nella pagina Informazioni!"
+    },
+    "page_1.or_signup_with_your_e-mail": "Rimuovere il molo",
+    "group_843.login": "Login",
+    "page_2.30": "30",
+    "page_2.our_goal": "Il nostro obiettivo è eliminare il problema della localizzazione fornendo strumenti per automatizzare, integrare e gestire al meglio le traduzioni. Lokalise è un modo migliore per le aziende orientate alla crescita di espandere le loro applicazioni mobili, giochi, software o contenuti digitali in più lingue.",
+    "page_1.better": "Meglio",
+    "page_1.sign-in_with_google": "Accedi con Google",
+    "page_1.register": "Registrati",
+    "page_1.email": "better@lokalise.com",
+    "page_2.get_to_know_lokalise_better": "Conosci meglio Lokalise",
+    "page_1.password": "Parola d'ordine",
+    "page_1.full_name": "Nome e cognome",
+    "page_1.privacy_policy.": "Iscrivendoti, accetti i nostri <u> Termini di utilizzo <\/u> e la <u> Informativa sulla privacy <\/u> .",
+    "page_1.register.8": "Rimozione del Dock",
+    "page_1.••••••••••••••": "•••••••••••••••",
+    "page_1.e-mail": "E-mail"
+}

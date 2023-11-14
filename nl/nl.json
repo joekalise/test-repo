@@ -1,0 +1,37 @@
+{
+    "menu": {
+        "home": "Thuis",
+        "about": "Over",
+        "privacy": "Privacybeleid"
+    },
+    "main": {
+        "welcome": "Hallo vanuit Lokalise!",
+        "about": "Over ons",
+        "new_message": "geen berichten | één bericht | %1$s berichten",
+        "tms": "Lokalise is een TMS",
+        "g2": "Lees over ons op G2",
+        "get2know": "Leer Lokalise beter kennen",
+        "get2know_message": "Ons doel is om het gedoe van lokalisatie te elimineren door tools aan te bieden waarmee u uw vertalingen kunt automatiseren, integreren en beter kunt beheren. Lokalise is een betere manier voor op groei gerichte bedrijven om hun mobiele apps, games, software of digitale inhoud uit te breiden\n meerdere talen.",
+        "sign-in": "Log in met Google",
+        "register-button": "Register",
+        "demo-key-websummit-haochen": "Softwaresleutel om te bewijzen dat Lokalise geweldig is."
+    },
+    "about": {
+        "welcome": "Welkom op de Over-pagina!"
+    },
+    "page_1.or_signup_with_your_e-mail": "Dock verwijderen",
+    "group_843.login": "Log in",
+    "page_2.30": "30",
+    "page_2.our_goal": "Ons doel is om het gedoe van lokalisatie te elimineren door tools aan te bieden waarmee u uw vertalingen kunt automatiseren, integreren en beter kunt beheren. Lokalise is een betere manier voor op groei gerichte bedrijven om hun mobiele apps, games, software of digitale inhoud uit te breiden\n meerdere talen.",
+    "page_1.better": "Beter",
+    "page_1.sign-in_with_google": "Log in met Google",
+    "page_1.register": "Register",
+    "page_1.email": "beter@lokalise.com",
+    "page_2.get_to_know_lokalise_better": "Leer Lokalise beter kennen",
+    "page_1.password": "Wachtwoord",
+    "page_1.full_name": "Voor-en achternaam",
+    "page_1.privacy_policy.": "Door u aan te melden, accepteert u onze <u> Gebruiksvoorwaarden <\/u> en <u> Privacybeleid <\/u> .",
+    "page_1.register.8": "Dockverwijdering",
+    "page_1.••••••••••••••": "• • • • • • • • • • • • •",
+    "page_1.e-mail": "Email"
+}
