@@ -1,50 +1,42 @@
 {
-    "GameGenres": {
-        "Action": "Bei einem Actionspiel müssen die Spieler schnelle Reflexe, Genauigkeit und Timing einsetzen, um Hindernisse zu überwinden.",
-        "Adventure": "Abenteuerspiele beinhalten oft eine Handlung oder Elemente der Erkundung. Diese können in vielen verschiedenen Schauplätzen angesiedelt sein, etwa in Fantasiewelten oder historischen Schauplätzen.",
-        "RPG": "Rollenspiele, bei denen Spieler die Rollen von Charakteren in einer fiktiven Umgebung übernehmen."
+    "menu": {
+        "home": "Heim",
+        "about": "Um",
+        "privacy": "Datenschutzrichtlinie"
     },
-    "GamePlatformTypes": {
-        "Console": "Eine Art Spielplattform, bei der es sich in der Regel um ein stationäres Gerät handelt, das an einen Fernseher angeschlossen wird.",
-        "PC": "Ein Spiel, das auf einem PC und nicht auf einer Konsole gespielt wird.",
-        "Mobile": "Eine Art Spiel, das auf einem mobilen Gerät wie Smartphones und Tablets gespielt wird."
+    "main": {
+        "welcome": "Hallo von Lokalise!",
+        "about": "Über uns",
+        "new_message": "keine Nachrichten | eine Nachricht | %1$s Nachrichten",
+        "tms": "Lokalise ist ein TMS",
+        "g2": "Lesen Sie mehr über uns auf G2",
+        "get2know": "Lernen Sie Lokalise besser kennen",
+        "get2know_message": "Unser Ziel ist es, den Aufwand der Lokalisierung zu beseitigen, indem wir Tools zur Automatisierung, Integration und besseren Verwaltung Ihrer Übersetzungen bereitstellen. Lokalise ist eine bessere Möglichkeit für wachstumsorientierte Unternehmen, ihre mobilen Apps, Spiele, Software oder digitalen Inhalte auf mehrere Sprachen auszudehnen.",
+        "sign-in": "Anmeldung mit Google",
+        "register-button": "Registrieren",
+        "demo-key-websummit-haochen": "Softwareschlüssel zum Beweis, dass Lokalise großartig ist."
     },
-    "GameModes": {
-        "SinglePlayer": "Spiele, die für das Spielen durch einen Spieler konzipiert sind.",
-        "Multiplayer": "Eine Art Spiel, bei dem mehrere Personen in gewisser Weise zusammen spielen können."
+    "about": {
+        "welcome": "Willkommen auf der About-Seite!"
     },
-    "DevelopmentComponents": {
-        "GameDesign": "Der Prozess der Erstellung des Inhalts und der Regeln eines Spiels.",
-        "GameArt": "Künstlerische Komponenten, die in ein Spiel einfließen.",
-        "GameSound": "Alle Sounds, die in einem Spiel verwendet werden."
-    },
-    "StreamingPlatforms": {
-        "Twitch": "Eine beliebte Plattform für Live-Streaming von Videospielen.",
-        "YouTubeGaming": "Der Dienst von YouTube, mit dem Nutzer Videospielinhalte streamen, hochladen und erkunden können.",
-        "X": "Der Dienst von Twitter, der es Menschen ermöglicht, Videos und Inhalte hochzuladen."
-    },
-    "PlayingStyle": {
-        "ProGaming": "Menschen, die Spiele auf professionellem, wettbewerbsorientiertem Niveau spielen.",
-        "Casual": "Spiele, die so konzipiert sind, dass sie leicht zu erlernen und zu spielen sind und für deren Spaß kein großer Zeitaufwand erforderlich ist.",
-        "Indie": "Spiele, die ohne finanzielle Unterstützung eines Herausgebers entwickelt werden."
-    },
-    "MarketingTerms": {
-        "EarlyAccess": "Ein Modell, bei dem Verbraucher für ein in der Entwicklung befindliches Spiel bezahlen und Zugang zu Vorabversionen erhalten können.",
-        "DLC": "Zusätzlicher Inhalt, der einem bereits veröffentlichten Spiel hinzugefügt wird."
-    },
-    "GameControls": {
-        "GameController": "Ein Gerät zur Steuerung von Videospielen.",
-        "Keyboard": "Wird oft in Kombination mit einer Maus zur Steuerung von PC-Spielen verwendet.",
-        "Mouse": "Wird oft in Kombination mit einer Tastatur zur Steuerung von PC-Spielen verwendet."
-    },
-    "GameGraphics": {
-        "VirtualReality": "Eine Art Videospielgrafik, die den Benutzer vollständig in eine 3D-Umgebung eintauchen lässt.",
-        "AugmentedReality": "Eine Art von Videospielgrafiken, die Spielvisualisierungen über die eigene Umgebung des Spielers legen."
-    },
-    "GameInteractions": {
-        "GameCommunity": "Eine Community, die sich rund um ein bestimmtes Spiel oder Genre bildet.",
-        "GameForum": "Eine Online-Diskussionsseite, auf der Videospielspieler verschiedene Themen diskutieren können.",
-        "GameGuide": "Eine digitale oder gedruckte Ressource, mit der Spieler ein Spiel verstehen und darin hervorragende Leistungen erbringen können.",
-        "GameResource": "Eine Ressource, um dem Benutzer das beste Erlebnis zu bieten."
-    }
+    "page_1.or_signup_with_your_e-mail": "Dock entfernen",
+    "group_843.login": "Anmeldung",
+    "page_2.30": "30",
+    "page_2.our_goal": "Unser Ziel ist es, den Aufwand der Lokalisierung zu beseitigen, indem wir Tools zur Automatisierung, Integration und besseren Verwaltung Ihrer Übersetzungen bereitstellen. Lokalise ist eine bessere Möglichkeit für wachstumsorientierte Unternehmen, ihre mobilen Apps, Spiele, Software oder digitalen Inhalte auf mehrere Sprachen auszudehnen.",
+    "page_1.better": "Besser",
+    "page_1.sign-in_with_google": "Anmeldung mit Google",
+    "page_1.register": "Registrieren",
+    "page_1.email": "better@lokalise.com",
+    "page_2.get_to_know_lokalise_better": "Lernen Sie Lokalise besser kennen",
+    "page_1.password": "Passwort",
+    "page_1.full_name": "Vollständiger Name",
+    "page_1.privacy_policy.": "Durch Ihre Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzrichtlinie <\/u> .",
+    "page_1.register.8": "Dockentfernung",
+    "page_1.••••••••••••••": "•••••••••••••••",
+    "page_1.e-mail": "Email",
+    "Our_goal_is_to_eliminate_localization_hassles_by_providing_tools_for_automation__integration_and_better_translation_management._Lokalise_is_a_better_way_for_growth-oriented_companies_to_extend_their_m": "Unser Ziel ist es, Lokalisierungsprobleme durch die Bereitstellung von Tools für Automatisierung, Integration und besseres Übersetzungsmanagement zu beseitigen. Lokalise ist für wachstumsorientierte Unternehmen eine bessere Möglichkeit, ihre mobilen Anwendungen, Spiele, Software oder digitalen Inhalte auf mehrere Sprachen auszudehnen.",
+    "Or_signup_with_your_e-mail": "Oder melden Sie sich mit Ihrer E-Mail an",
+    "Meet_Lokalise": "Lernen Sie Lokalise kennen",
+    "Sign_in_with_Google": "Anmeldung mit Google Change",
+    "Want_to_join_an_existing_Team_instead?_Login": "Möchten Sie stattdessen einem bestehenden Team beitreten? Anmeldung"
 }

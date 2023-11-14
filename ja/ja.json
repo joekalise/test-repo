@@ -1,50 +1,42 @@
 {
-    "GameGenres": {
-        "Action": "アクション ゲームでは、プレイヤーは素早い反射神経、正確さ、タイミングを使って障害物を乗り越える必要があります。",
-        "Adventure": "アドベンチャー ゲームには、ストーリーや探索の要素が含まれることがよくあります。これらは、ファンタジーの世界や歴史的設定など、さまざまな設定で設定される場合があります。",
-        "RPG": "プレイヤーが架空の設定でキャラクターの役割を演じるロールプレイング ゲーム。"
+    "menu": {
+        "home": "家",
+        "about": "約",
+        "privacy": "プライバシーポリシー"
     },
-    "GamePlatformTypes": {
-        "Console": "ゲーム プラットフォームの一種で、通常はテレビに接続する据え置き型のデバイスです。",
-        "PC": "コンソールではなくパーソナルコンピュータでプレイされるゲーム。",
-        "Mobile": "スマートフォンやタブレットなどのモバイルデバイスでプレイされるゲームの一種。"
+    "main": {
+        "welcome": "ロカリゼからこんにちは！",
+        "about": "私たちについて",
+        "new_message": "メッセージなし | 1 つのメッセージ | {count}メッセージ",
+        "tms": "Lokalise は TMS です",
+        "g2": "G2で私たちについて読む",
+        "get2know": "ロカリゼを知る",
+        "get2know_message": "私たちの目標は、翻訳を自動化し、統合し、より適切に管理するためのツールを提供することにより、ローカリゼーションの煩わしさを解消することです。 Lokalise は、成長志向の企業がモバイル アプリ、ゲーム、ソフトウェア、またはデジタル コンテンツを複数の言語に拡張するための優れた方法です。",
+        "sign-in": "Googleでサインインする",
+        "register-button": "登録する",
+        "demo-key-websummit-haochen": "Lokalise が素晴らしいことを証明するソフトウェア キー。"
     },
-    "GameModes": {
-        "SinglePlayer": "1 人のプレイヤーがプレイするように設計されたゲーム。",
-        "Multiplayer": "複数の人がある程度の能力で一緒にプレイできるゲームの一種。"
+    "about": {
+        "welcome": "Aboutページへようこそ！"
     },
-    "DevelopmentComponents": {
-        "GameDesign": "ゲームのコンテンツとルールを作成するプロセス。",
-        "GameArt": "ゲームに組み込まれた芸術的なコンポーネント。",
-        "GameSound": "ゲーム内で使用されるすべてのサウンド。"
-    },
-    "StreamingPlatforms": {
-        "Twitch": "ビデオ ゲームのライブ ストリーミングに人気のプラットフォーム。",
-        "YouTubeGaming": "ビデオ ゲーム コンテンツをストリーミング、アップロード、探索できる YouTube のサービス。",
-        "X": "動画やコンテンツをアップロードできる Twitter のサービス。"
-    },
-    "PlayingStyle": {
-        "ProGaming": "プロの競技レベルでゲームをプレイする人々。",
-        "Casual": "学びやすくプレイしやすいように設計されており、楽しむために多大な時間投資を必要としないゲーム。",
-        "Indie": "パブリッシャーからの財政的支援を受けずに開発されたゲーム。"
-    },
-    "MarketingTerms": {
-        "EarlyAccess": "消費者が開発中のゲームの代金を支払い、プレリリース バージョンにアクセスできるモデル。",
-        "DLC": "すでにリリースされているゲームに追加される追加コンテンツ。"
-    },
-    "GameControls": {
-        "GameController": "ビデオゲームを制御するために使用されるデバイス。",
-        "Keyboard": "PC ゲームを制御するためにマウスと組み合わせて使用されることがよくあります。",
-        "Mouse": "PC ゲームを制御するためにキーボードと組み合わせて使用されることがよくあります。"
-    },
-    "GameGraphics": {
-        "VirtualReality": "ユーザーを 3D 環境に完全に没入させるビデオ ゲーム グラフィックスの一種。",
-        "AugmentedReality": "ゲームのビジュアルをプレイヤー自身の環境にオーバーレイするビデオ ゲーム グラフィックスの一種。"
-    },
-    "GameInteractions": {
-        "GameCommunity": "特定のゲームまたはジャンルを中心に形成されるコミュニティ。",
-        "GameForum": "ビデオ ゲーム プレーヤーがさまざまなトピックについて議論できるオンライン ディスカッション サイト。",
-        "GameGuide": "プレーヤーがゲームを理解し、上達するためのデジタルまたは印刷されたリソース。",
-        "GameResource": "ユーザーに最高のエクスペリエンスを提供するリソース。"
-    }
+    "page_1.or_signup_with_your_e-mail": "ドックを取り外します",
+    "group_843.login": "ログイン",
+    "page_2.30": "30",
+    "page_2.our_goal": "私たちの目標は、翻訳を自動化し、統合し、より適切に管理するためのツールを提供することにより、ローカリゼーションの煩わしさを解消することです。 Lokalise は、成長志向の企業がモバイル アプリ、ゲーム、ソフトウェア、またはデジタル コンテンツを複数の言語に拡張するための優れた方法です。",
+    "page_1.better": "より良い",
+    "page_1.sign-in_with_google": "Googleでサインインする",
+    "page_1.register": "登録する",
+    "page_1.email": "better@lokalise.com",
+    "page_2.get_to_know_lokalise_better": "ロカリゼを知る",
+    "page_1.password": "パスワード",
+    "page_1.full_name": "フルネーム",
+    "page_1.privacy_policy.": "サインアップすることで、私たちの利用規約および<u>プライバシーポリシー<\/u>を受け入れることになります。",
+    "page_1.register.8": "ドックの取り外し",
+    "page_1.••••••••••••••": "••••••••••••••",
+    "page_1.e-mail": "Eメール",
+    "Our_goal_is_to_eliminate_localization_hassles_by_providing_tools_for_automation__integration_and_better_translation_management._Lokalise_is_a_better_way_for_growth-oriented_companies_to_extend_their_m": "私たちの目標は、自動化、統合、翻訳管理の向上のためのツールを提供することで、ローカリゼーションの煩わしさを解消することです。 Lokalise は、成長志向の企業がモバイル アプリケーション、ゲーム、ソフトウェア、デジタル コンテンツを複数言語に拡張するためのより良い方法です。",
+    "Or_signup_with_your_e-mail": "または電子メールでサインアップしてください",
+    "Meet_Lokalise": "ロカリースの紹介",
+    "Sign_in_with_Google": "Googleでサインイン",
+    "Want_to_join_an_existing_Team_instead?_Login": "代わりに既存のチームに参加したいですか?ログイン"
 }
