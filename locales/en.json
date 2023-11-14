@@ -15,7 +15,8 @@
         "sign-in": "Sign-in with Google",
         "register-button": "Register",
         "key-demo-lokalise": "This is a test key for Lokalise.",
-        "demo-key-websummit": "This is another test key for Christophe."
+        "demo-key-websummit": "This is another test key for Christophe.",
+        "demo-key-travis": "This is another test key for Travis."
     },
     "about": {
         "welcome": "Welcome to the About page!"
