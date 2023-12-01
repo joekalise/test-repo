@@ -1,22 +1,24 @@
 {
-    "menu": {
-        "home": "Home",
-        "about": "About",
-        "privacy": "Privacy Policy"
-    },
-    "main": {
-        "welcome": "Hello from Lokalise!",
-        "about": "About us",
-        "new_message": "no messages | one message | {count} messages",
-        "tms": "Lokalise is a TMS",
-        "g2": "Read about us on G2",
-        "get2know": "Get to know Lokalise better",
-        "get2know_message": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate and better manage your translations. Lokalise is a better way for growth-oriented companies to expand their mobile apps, games, software or digital content into \n multiple languages.",
-        "sign-in": "Sign-in with Google",
-        "register-button": "Register",
-        "demo-key-websummit-haochen": "Software key to prove Lokalise is awesome."
-    },
-    "about": {
-        "welcome": "Welcome to the About page!"
-    }
+    "log-in": "Log In",
+    "password": "Password",
+    "log-in-sso": "Log in with SSO",
+    "username": "Username",
+    "try-it-free": "Try it free",
+    "book-demo": "Book a demo",
+    "sign-up": "Sign Up",
+    "looking-to-join": "Looking to join an existing team instead? Log In",
+    "email-entry-john": "john@better.com",
+    "try-all-features": "Try all features for 14 days · No credit card required",
+    "log-in-google": "Log In with Google",
+    "or-sign-up": "Or sign up with your email ",
+    "our-goal-copy": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate, and better manage your translations. Lokalise is a better way for growth-minded businesses to expand their mobile apps, games, software or digital content into multiple languages.",
+    "better": "Better",
+    "sign-up-google": "Sign Up with Google",
+    "hero-copy": "Whether it’s your cloud file storage, task management, or communication tools, integrate Lokalise with thousands of other apps on Zapier to automate your workflow.",
+    "zapier-header": "Lokalise integration for Zapier",
+    "meet-lokalise": "Meet Lokalise",
+    "email-entry-better": "better@lokalise.com",
+    "full_name": "Full name",
+    "by-signing-up": "By signing up, you accept our <u>Terms of Service<\/u> and <u>Privacy Policy<\/u>.",
+    "email": "E-mail"
 }
