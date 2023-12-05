@@ -20,5 +20,6 @@
     "email-entry-better": "better@lokalise.com",
     "full_name": "Full name",
     "by-signing-up": "By signing up, you accept our <u>Terms of Service<\/u> and <u>Privacy Policy<\/u>.",
-    "email": "E-mail"
+    "email": "E-mail",
+    "file-new-entry": "This is a new key."
 }
