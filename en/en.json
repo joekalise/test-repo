@@ -1,23 +1,25 @@
 {
-    "menu": {
-        "en": "English",
-        "es": "Spanish",
-        "home": "Home",
-        "about": "About",
-        "privacy": "Privacy Policy"
-    },
-    "main": {
-        "welcome": "Hello from Lokalise!",
-        "new_message": "no messages | one message | {count} messages",
-        "tms": "Lokalise is a TMS",
-        "g2": "Read about us on G2",
-        "new_key": "This is a new key",
-        "get2know": "Get to know Lokalise",
-        "get2know_message": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate and better manage your translations. Lokalise is a better way for growth-oriented companies to expand their mobile apps, games, software or digital content into multiple languages.",
-        "long-key_multiple-paras": "This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>This is a long key to demonstrate long paragraphs.<br><li>There will be multiple line breaks and paragraph breaks using HTML tags.</li>",
-        "test_key": "Adding a key for demo purposes"
-    },
-    "about": {
-        "welcome": "Welcome to the About page!"
-    }
+    "log-in": "Log In",
+    "password": "Password",
+    "log-in-sso": "Log in with SSO",
+    "username": "Username",
+    "try-it-free": "Try it free",
+    "book-demo": "Book a demo",
+    "password-entry": "•••••••••••••",
+    "looking-to-join": "Looking to join an existing team instead? Log In",
+    "sign-up": "Sign Up",
+    "email-entry-john": "john@better.com",
+    "try-all-features": "Try all features for 14 days · No credit card required",
+    "log-in-google": "Log In with Google",
+    "or-sign-up": "Or sign up with your email ",
+    "our-goal-copy": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate, and better manage your translations. Lokalise is a better way for growth-minded businesses to expand their mobile apps, games, software or digital content into multiple languages.",
+    "better": "Better",
+    "sign-up-google": "Sign Up with Google",
+    "hero-copy": "Whether it’s your cloud file storage, task management, or communication tools, integrate Lokalise with thousands of other apps on Zapier to automate your workflow.",
+    "full_name": "Full name",
+    "email-entry-better": "better@lokalise.com",
+    "meet-lokalise": "Meet Lokalise",
+    "zapier-header": "Lokalise integration for Zapier",
+    "by-signing-up": "By signing up, you accept our <u>Terms of Service<\/u> and <u>Privacy Policy<\/u>.",
+    "email": "E-mail"
 }
