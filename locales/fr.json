@@ -1,22 +1,25 @@
 {
-    "menu": {
-        "home": "Maison",
-        "about": "À propos de",
-        "privacy": "Politique de confidentialité"
-    },
-    "main": {
-        "welcome": "Bonjour de Localise !",
-        "about": "À propos de nous",
-        "new_message": "aucun message | un message | {count} messages",
-        "tms": "Lokalise est un TMS",
-        "new_key": "Ceci est une nouvelle clé",
-        "g2": "Lisez à propos de nous sur G2",
-        "get2know": "Découvrez Localise",
-        "get2know_message": "Notre objectif est d'éliminer les tracas de la localisation en fournissant des outils pour automatiser, intégrer et mieux gérer vos traductions. Lokalise est un meilleur moyen pour les entreprises axées sur la croissance d'étendre leurs applications mobiles, leurs jeux, leurs logiciels ou leur contenu numérique dans plusieurs langues.",
-        "test_key": "Ajout d'une clé à des fins de démonstration",
-        "test-demo": "Il s'agit d'une clé de démonstration."
-    },
-    "about": {
-        "welcome": "Bienvenue sur la page À propos !"
-    }
+    "log-in": "Se connecter",
+    "password": "Mot de passe",
+    "log-in-sso": "Connectez-vous avec SSO",
+    "username": "Nom d'utilisateur",
+    "try-it-free": "Essai gratuit",
+    "book-demo": "Réservez une démo",
+    "sign-up": "S'inscrire",
+    "looking-to-join": "Vous souhaitez plutôt rejoindre une équipe existante ? Se connecter",
+    "email-entry-john": "john@better.com",
+    "try-all-features": "Essayez toutes les fonctionnalités pendant 14 jours · Aucune carte de crédit requise",
+    "log-in-google": "Connectez-vous avec Google",
+    "or-sign-up": "Ou inscrivez-vous avec votre email ",
+    "our-goal-copy": "Notre objectif est d'éliminer les tracas liés à la localisation en fournissant des outils pour automatiser, intégrer et mieux gérer vos traductions. Lokalise est un meilleur moyen pour les entreprises en quête de croissance d'étendre leurs applications mobiles, leurs jeux, leurs logiciels ou leur contenu numérique dans plusieurs langues.",
+    "better": "Mieux",
+    "sign-up-google": "Inscrivez-vous avec Google",
+    "hero-copy": "Qu'il s'agisse de votre stockage de fichiers dans le cloud, de votre gestion des tâches ou de vos outils de communication, intégrez Lokalise à des milliers d'autres applications sur Zapier pour automatiser votre flux de travail.",
+    "zapier-header": "Intégration Localise pour Zapier",
+    "meet-lokalise": "Rencontrez Lokalise",
+    "email-entry-better": "mieux@lokalise.com",
+    "full_name": "Nom et prénom",
+    "by-signing-up": "En vous inscrivant, vous acceptez nos <u> Conditions d'utilisation <\/u> et <u> Politique de confidentialité <\/u> .",
+    "email": "E-mail",
+    "log-in2": "Se connecter"
 }
