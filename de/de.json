@@ -1,50 +1,44 @@
 {
-    "GameGenres": {
-        "Action": "Bei einem Actionspiel müssen die Spieler schnelle Reflexe, Genauigkeit und Timing einsetzen, um Hindernisse zu überwinden.",
-        "Adventure": "Abenteuerspiele beinhalten oft eine Handlung oder Elemente der Erkundung. Diese können in vielen verschiedenen Schauplätzen angesiedelt sein, etwa in Fantasiewelten oder historischen Schauplätzen.",
-        "RPG": "Rollenspiele, bei denen Spieler die Rollen von Charakteren in einer fiktiven Umgebung übernehmen."
+    "sign_up_page_—_mobile": {
+        "by-signing-up": "Mit Ihrer Anmeldung akzeptieren Sie unsere <u>Nutzungsbedingungen<\/u> und <u>Datenschutzerklärung<\/u>.",
+        "sign-up": "S'inscrire",
+        "looking-to-join": "Vous souhaitez plutôt rejoindre une équipe existante ? Se connecter",
+        "email": "Email",
+        "or-sign-up": "Ou inscrivez-vous avec votre email ",
+        "better": "Mieux",
+        "sign-up-google": "Inscrivez-vous avec Google",
+        "full_name": "Vollständiger Name",
+        "email-entry-better": "mieux@lokalise.com"
     },
-    "GamePlatformTypes": {
-        "Console": "Eine Art Spielplattform, bei der es sich in der Regel um ein stationäres Gerät handelt, das an einen Fernseher angeschlossen wird.",
-        "PC": "Ein Spiel, das auf einem PC und nicht auf einer Konsole gespielt wird.",
-        "Mobile": "Eine Art Spiel, das auf einem mobilen Gerät wie Smartphones und Tablets gespielt wird."
+    "log_in_page_—_mobile": {
+        "log-in": "Anmeldung",
+        "email-entry-john": "john@better.com",
+        "password": "Mot de test",
+        "log-in-sso": "Connectez-vous avec test",
+        "username": "Nom d'utilisateur",
+        "log-in-google": "Connectez-vous avec Google"
     },
-    "GameModes": {
-        "SinglePlayer": "Spiele, die für das Spielen durch einen Spieler konzipiert sind.",
-        "Multiplayer": "Eine Art Spiel, bei dem mehrere Personen in gewisser Weise zusammen spielen können."
-    },
-    "DevelopmentComponents": {
-        "GameDesign": "Der Prozess der Erstellung des Inhalts und der Regeln eines Spiels.",
-        "GameArt": "Künstlerische Komponenten, die in ein Spiel einfließen.",
-        "GameSound": "Alle Sounds, die in einem Spiel verwendet werden."
-    },
-    "StreamingPlatforms": {
-        "Twitch": "Eine beliebte Plattform für Live-Streaming von Videospielen.",
-        "YouTubeGaming": "Der Dienst von YouTube, mit dem Nutzer Videospielinhalte streamen, hochladen und erkunden können.",
-        "X": "Der Dienst von Twitter, der es Menschen ermöglicht, Videos und Inhalte hochzuladen."
-    },
-    "PlayingStyle": {
-        "ProGaming": "Menschen, die Spiele auf professionellem, wettbewerbsorientiertem Niveau spielen.",
-        "Casual": "Spiele, die so konzipiert sind, dass sie leicht zu erlernen und zu spielen sind und für deren Spaß kein großer Zeitaufwand erforderlich ist.",
-        "Indie": "Spiele, die ohne finanzielle Unterstützung eines Herausgebers entwickelt werden."
-    },
-    "MarketingTerms": {
-        "EarlyAccess": "Ein Modell, bei dem Verbraucher für ein in der Entwicklung befindliches Spiel bezahlen und Zugang zu Vorabversionen erhalten können.",
-        "DLC": "Zusätzlicher Inhalt, der einem bereits veröffentlichten Spiel hinzugefügt wird."
-    },
-    "GameControls": {
-        "GameController": "Ein Gerät zur Steuerung von Videospielen.",
-        "Keyboard": "Wird oft in Kombination mit einer Maus zur Steuerung von PC-Spielen verwendet.",
-        "Mouse": "Wird oft in Kombination mit einer Tastatur zur Steuerung von PC-Spielen verwendet."
-    },
-    "GameGraphics": {
-        "VirtualReality": "Eine Art Videospielgrafik, die den Benutzer vollständig in eine 3D-Umgebung eintauchen lässt.",
-        "AugmentedReality": "Eine Art von Videospielgrafiken, die Spielvisualisierungen über die eigene Umgebung des Spielers legen."
-    },
-    "GameInteractions": {
-        "GameCommunity": "Eine Community, die sich rund um ein bestimmtes Spiel oder Genre bildet.",
-        "GameForum": "Eine Online-Diskussionsseite, auf der Videospielspieler verschiedene Themen diskutieren können.",
-        "GameGuide": "Eine digitale oder gedruckte Ressource, mit der Spieler ein Spiel verstehen und darin hervorragende Leistungen erbringen können.",
-        "GameResource": "Eine Ressource, um dem Benutzer das beste Erlebnis zu bieten."
-    }
+    "log-in": "Anmeldung",
+    "password": "Mot de test",
+    "log-in-sso": "Connectez-vous avec test",
+    "username": "Nom d'utilisateur",
+    "try-it-free": "Essai gratuit",
+    "book-demo": "Réservez une démo",
+    "sign-up": "S'inscrire",
+    "looking-to-join": "Vous souhaitez plutôt rejoindre une équipe existante ? Se connecter",
+    "email-entry-john": "john@better.com",
+    "try-all-features": "Essayez toutes les fonctionnalités pendant 14 jours · Aucune carte de crédit requise",
+    "log-in-google": "Connectez-vous avec Google",
+    "or-sign-up": "Ou inscrivez-vous avec votre email ",
+    "our-goal-copy": "Notre objectif est d'éliminer les tracas liés à la localisation en fournissant des outils pour automatiser, intégrer et mieux gérer vos traductions. Lokalise est un meilleur moyen pour les entreprises en quête de croissance d'étendre leurs applications mobiles, leurs jeux, leurs logiciels ou leur contenu numérique dans plusieurs langues.",
+    "better": "Mieux",
+    "sign-up-google": "Inscrivez-vous avec Google",
+    "hero-copy": "Qu'il s'agisse de votre stockage de fichiers dans le cloud, de votre gestion des tâches ou de vos outils de communication, intégrez Lokalise à des milliers d'autres applications sur Zapier pour automatiser votre flux de travail.",
+    "zapier-header": "Intégration Localise pour Zapier",
+    "meet-lokalise": "Rencontrez Lokalise",
+    "email-entry-better": "mieux@lokalise.com",
+    "full_name": "Vollständiger Name",
+    "by-signing-up": "Mit Ihrer Anmeldung akzeptieren Sie unsere <u>Nutzungsbedingungen<\/u> und <u>Datenschutzerklärung<\/u>.",
+    "email": "Email",
+    "log-in2": "Anmeldung"
 }
