@@ -1,50 +1,50 @@
 {
     "sign_up_page_—_mobile.by-signing-up": {
-        "translation": "Mit Ihrer Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzerklärung <\/u> ."
+        "translation": "Iscrivendoti, accetti i nostri <u> Termini di servizio <\/u> e la <u> Informativa sulla privacy <\/u> ."
     },
     "log_in_page_—_mobile.log-in": {
-        "translation": "Anmeldung"
+        "translation": "Login"
     },
     "sign_up_page_—_mobile.sign-up": {
-        "translation": "Melden Sie sich an"
+        "translation": "Iscrizione"
     },
     "sign_up_page_—_mobile.looking-to-join": {
-        "translation": "Möchten Sie stattdessen einem bestehenden Team beitreten? Anmeldung"
+        "translation": "Vuoi invece unirti a un team esistente? Login"
     },
     "sign_up_page_—_mobile.email": {
-        "translation": "Email"
+        "translation": "Posta elettronica"
     },
     "log_in_page_—_mobile.email-entry-john": {
-        "translation": "john@better.com"
+        "translation": "giovanni@better.com"
     },
     "log_in_page_—_mobile.password": {
-        "translation": "Passwort"
+        "translation": "Parola d'ordine"
     },
     "log_in_page_—_mobile.log-in-sso": {
-        "translation": "Melden Sie sich mit SSO an"
+        "translation": "Accedi con SSO"
     },
     "log_in_page_—_mobile.username": {
-        "translation": "Nutzername"
+        "translation": "Nome utente"
     },
     "log_in_page_—_mobile.group_894.group_905.log-in-google": {
-        "translation": "Melden Sie sich mit Google an"
+        "translation": "Accedi con Google"
     },
     "sign_up_page_—_mobile.or-sign-up": {
-        "translation": "Oder melden Sie sich mit Ihrer E-Mail-Adresse an ",
+        "translation": "Oppure registrati con la tua email ",
         "limit": 30
     },
     "sign_up_page_—_mobile.input.better": {
-        "translation": "Besser"
+        "translation": "Meglio"
     },
     "sign_up_page_—_mobile.group_894.sign-up-google": {
-        "translation": "Melden Sie sich bei Google an",
+        "translation": "Iscriviti con Google",
         "limit": 35
     },
     "sign_up_page_—_mobile.button.sign_up__%name%": {
-        "translation": "Melden Sie sich an, %name%"
+        "translation": "Iscrizione, %name%"
     },
     "sign_up_page_—_mobile.full_name": {
-        "translation": "Vollständiger Name"
+        "translation": "Nome e cognome"
     },
     "sign_up_page_—_mobile.email-entry-better": {
         "translation": "better@lokalise.com"
