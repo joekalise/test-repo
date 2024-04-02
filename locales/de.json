@@ -1,25 +1,237 @@
 {
-    "log-in": "Anmeldung",
-    "password": "Passwort",
-    "log-in-sso": "Melden Sie sich mit SSO an",
-    "username": "Nutzername",
-    "try-it-free": "Versuchen Sie es kostenlos",
-    "book-demo": "Buchen Sie eine Demo",
-    "sign-up": "Melden Sie sich an",
-    "looking-to-join": "Möchten Sie stattdessen einem bestehenden Team beitreten? Anmeldung",
-    "email-entry-john": "john@better.com",
-    "try-all-features": "Testen Sie alle Funktionen 14 Tage lang. · Keine Kreditkarte erforderlich",
-    "log-in-google": "Melden Sie sich mit Google an",
-    "or-sign-up": "Oder melden Sie sich mit Ihrer E-Mail-Adresse an ",
-    "our-goal-copy": "Unser Ziel ist es, den Aufwand der Lokalisierung zu eliminieren, indem wir Tools zur Automatisierung, Integration und besseren Verwaltung Ihrer Übersetzungen bereitstellen. Lokalise ist eine bessere Möglichkeit für wachstumsorientierte Unternehmen, ihre mobilen Apps, Spiele, Software oder digitalen Inhalte in mehrere Sprachen zu erweitern.",
-    "better": "Besser",
-    "sign-up-google": "Melden Sie sich bei Google an",
-    "hero-copy": "Ganz gleich, ob es sich um Ihre Cloud-Dateispeicherung, Aufgabenverwaltung oder Kommunikationstools handelt, integrieren Sie Lokalise mit Tausenden anderen Apps auf Zapier, um Ihren Arbeitsablauf zu automatisieren.",
-    "zapier-header": "Lokalise-Integration für Zapier",
-    "meet-lokalise": "Lernen Sie Lokalise kennen",
-    "email-entry-better": "better@lokalise.com",
-    "full_name": "Vollständiger Name",
-    "by-signing-up": "Mit Ihrer Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzerklärung <\/u> .",
-    "email": "Email",
-    "log-in2": "Anmeldung"
+    "sign_up_page_—_mobile": {
+        "by-signing-up": {
+            "translation": "Mit Ihrer Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzerklärung <\/u> ."
+        },
+        "sign-up": {
+            "translation": "Melden Sie sich an"
+        },
+        "looking-to-join": {
+            "translation": "Möchten Sie stattdessen einem bestehenden Team beitreten? Anmeldung"
+        },
+        "email": {
+            "translation": "Email"
+        },
+        "or-sign-up": {
+            "translation": "Oder melden Sie sich mit Ihrer E-Mail-Adresse an "
+        },
+        "better": {
+            "translation": "Besser"
+        },
+        "sign-up-google": {
+            "translation": "Melden Sie sich bei Google an"
+        },
+        "sign_up__%name%": {
+            "translation": "Melden Sie sich an, %name%"
+        },
+        "full_name": {
+            "translation": "Vollständiger Name"
+        },
+        "email-entry-better": {
+            "translation": "better@lokalise.com"
+        }
+    },
+    "log_in_page_—_mobile": {
+        "log-in": {
+            "translation": "Anmeldung"
+        },
+        "email-entry-john": {
+            "translation": "john@better.com"
+        },
+        "password": {
+            "translation": "Passwort"
+        },
+        "log-in-sso": {
+            "translation": "Melden Sie sich mit SSO an"
+        },
+        "username": {
+            "translation": "Nutzername"
+        },
+        "log-in-google": {
+            "translation": "Melden Sie sich mit Google an"
+        }
+    },
+    "log-in": {
+        "translation": "Anmeldung"
+    },
+    "password": {
+        "translation": "Passwort"
+    },
+    "log-in-sso": {
+        "translation": "Melden Sie sich mit SSO an"
+    },
+    "username": {
+        "translation": "Nutzername"
+    },
+    "try-it-free": {
+        "translation": "Versuchen Sie es kostenlos"
+    },
+    "book-demo": {
+        "translation": "Buchen Sie eine Demo"
+    },
+    "sign-up": {
+        "translation": "Melden Sie sich an"
+    },
+    "looking-to-join": {
+        "translation": "Möchten Sie stattdessen einem bestehenden Team beitreten? Anmeldung"
+    },
+    "email-entry-john": {
+        "translation": "john@better.com"
+    },
+    "try-all-features": {
+        "translation": "Testen Sie alle Funktionen 14 Tage lang. · Keine Kreditkarte erforderlich"
+    },
+    "log-in-google": {
+        "translation": "Melden Sie sich mit Google an"
+    },
+    "or-sign-up": {
+        "translation": "Oder melden Sie sich mit Ihrer E-Mail-Adresse an "
+    },
+    "our-goal-copy": {
+        "translation": "Unser Ziel ist es, den Aufwand der Lokalisierung zu eliminieren, indem wir Tools zur Automatisierung, Integration und besseren Verwaltung Ihrer Übersetzungen bereitstellen. Lokalise ist eine bessere Möglichkeit für wachstumsorientierte Unternehmen, ihre mobilen Apps, Spiele, Software oder digitalen Inhalte in mehrere Sprachen zu erweitern."
+    },
+    "better": {
+        "translation": "Besser"
+    },
+    "sign-up-google": {
+        "translation": "Melden Sie sich bei Google an"
+    },
+    "hero-copy": {
+        "translation": "Ganz gleich, ob es sich um Ihre Cloud-Dateispeicherung, Aufgabenverwaltung oder Kommunikationstools handelt, integrieren Sie Lokalise mit Tausenden anderen Apps auf Zapier, um Ihren Arbeitsablauf zu automatisieren."
+    },
+    "zapier-header": {
+        "translation": "Lokalise-Integration für Zapier"
+    },
+    "meet-lokalise": {
+        "translation": "Lernen Sie Lokalise kennen"
+    },
+    "email-entry-better": {
+        "translation": "better@lokalise.com"
+    },
+    "full_name": {
+        "translation": "Vollständiger Name"
+    },
+    "by-signing-up": {
+        "translation": "Mit Ihrer Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzerklärung <\/u> ."
+    },
+    "email": {
+        "translation": "Email"
+    },
+    "log-in2": {
+        "translation": "Anmeldung"
+    },
+    "key-flyplay": {
+        "translation": "Hallo Gulla"
+    },
+    "page_1.or_signup_with_your_e-mail": {
+        "translation": "Dock entfernen"
+    },
+    "group_843.login": {
+        "translation": "Anmeldung"
+    },
+    "page_2.30": {
+        "translation": "30"
+    },
+    "page_2.our_goal": {
+        "translation": "Unser Ziel ist es, den Aufwand der Lokalisierung zu beseitigen, indem wir Tools zur Automatisierung, Integration und besseren Verwaltung Ihrer Übersetzungen bereitstellen. Lokalise ist eine bessere Möglichkeit für wachstumsorientierte Unternehmen, ihre mobilen Apps, Spiele, Software oder digitalen Inhalte auf mehrere Sprachen auszudehnen."
+    },
+    "page_1.better": {
+        "translation": "Besser"
+    },
+    "page_1.sign-in_with_google": {
+        "translation": "Anmeldung mit Google"
+    },
+    "page_1.register": {
+        "translation": "Registrieren"
+    },
+    "page_1.email": {
+        "translation": "better@lokalise.com"
+    },
+    "page_2.get_to_know_lokalise_better": {
+        "translation": "Lernen Sie Lokalise besser kennen"
+    },
+    "page_1.password": {
+        "translation": "Passwort"
+    },
+    "page_1.full_name": {
+        "translation": "Vollständiger Name"
+    },
+    "page_1.privacy_policy.": {
+        "translation": "Durch Ihre Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzrichtlinie <\/u> ."
+    },
+    "page_1.register.8": {
+        "translation": "Dockentfernung"
+    },
+    "page_1.••••••••••••••": {
+        "translation": "•••••••••••••••"
+    },
+    "page_1.e-mail": {
+        "translation": "Email"
+    },
+    "Login": {
+        "translation": "Anmeldung"
+    },
+    "register": {
+        "translation": "Registrieren"
+    },
+    "Log_in_with_Google": {
+        "translation": "Melden Sie sich mit Google an"
+    },
+    "Or_signup_with_your_e-mail": {
+        "translation": "Oder melden Sie sich mit Ihrer E-Mail an"
+    },
+    "Full_name": {
+        "translation": "Vollständiger Name"
+    },
+    "Better": {
+        "translation": "Besser"
+    },
+    "E-mail": {
+        "translation": "Email"
+    },
+    "better@lokalise.com": {
+        "translation": "better@lokalise.com"
+    },
+    "Password": {
+        "translation": "Passwort"
+    },
+    "By_signing_up__you_accept_our_Terms_of_Use_and_Privacy_Policy.": {
+        "translation": "Durch Ihre Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzrichtlinie <\/u> ."
+    },
+    "Register": {
+        "translation": "Registrieren"
+    },
+    "Want_to_join_an_existing_Team_instead?_Login": {
+        "translation": "Möchten Sie stattdessen einem bestehenden Team beitreten? Anmeldung"
+    },
+    "menu": {
+        "en": {
+            "translation": "Englisch"
+        },
+        "home": {
+            "translation": "Heim"
+        },
+        "about": {
+            "translation": "Um"
+        },
+        "contact": {
+            "translation": "Kontaktiere uns"
+        }
+    },
+    "main": {
+        "welcome": {
+            "translation": "Grüße von Lokalise"
+        },
+        "new_message": {
+            "translation": "keine Nachrichten | eine Nachricht | {count} Nachrichten"
+        },
+        "hello": {
+            "translation": "Grüße von Lokalise"
+        }
+    },
+    "about": {
+        "welcome": {
+            "translation": "Willkommen auf der About-Seite"
+        }
+    }
 }

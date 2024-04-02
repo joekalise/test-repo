@@ -1,0 +1,237 @@
+{
+    "sign_up_page_—_mobile": {
+        "by-signing-up": {
+            "translation": "Iscrivendoti, accetti i nostri <u> Termini di servizio <\/u> e la <u> Informativa sulla privacy <\/u> ."
+        },
+        "sign-up": {
+            "translation": "Iscrizione"
+        },
+        "looking-to-join": {
+            "translation": "Vuoi invece unirti a un team esistente? Login"
+        },
+        "email": {
+            "translation": "Posta elettronica"
+        },
+        "or-sign-up": {
+            "translation": "Oppure registrati con la tua email "
+        },
+        "better": {
+            "translation": "Meglio"
+        },
+        "sign-up-google": {
+            "translation": "Iscriviti con Google"
+        },
+        "sign_up__%name%": {
+            "translation": "Iscrizione, %name%"
+        },
+        "full_name": {
+            "translation": "Nome e cognome"
+        },
+        "email-entry-better": {
+            "translation": "better@lokalise.com"
+        }
+    },
+    "log_in_page_—_mobile": {
+        "log-in": {
+            "translation": "Login"
+        },
+        "email-entry-john": {
+            "translation": "giovanni@better.com"
+        },
+        "password": {
+            "translation": "Parola d'ordine"
+        },
+        "log-in-sso": {
+            "translation": "Accedi con SSO"
+        },
+        "username": {
+            "translation": "Nome utente"
+        },
+        "log-in-google": {
+            "translation": "Accedi con Google"
+        }
+    },
+    "log-in": {
+        "translation": "Login"
+    },
+    "password": {
+        "translation": "Parola d'ordine"
+    },
+    "log-in-sso": {
+        "translation": "Accedi con SSO"
+    },
+    "username": {
+        "translation": "Nome utente"
+    },
+    "try-it-free": {
+        "translation": "Provalo GRATIS"
+    },
+    "book-demo": {
+        "translation": "Prenota una dimostrazione"
+    },
+    "sign-up": {
+        "translation": "Iscrizione"
+    },
+    "looking-to-join": {
+        "translation": "Vuoi invece unirti a un team esistente? Login"
+    },
+    "email-entry-john": {
+        "translation": "giovanni@better.com"
+    },
+    "try-all-features": {
+        "translation": "Prova tutte le funzionalità per 14 giorni · Non è richiesta la carta di credito"
+    },
+    "log-in-google": {
+        "translation": "Accedi con Google"
+    },
+    "or-sign-up": {
+        "translation": "Oppure registrati con la tua email "
+    },
+    "our-goal-copy": {
+        "translation": "Il nostro obiettivo è eliminare il fastidio della localizzazione fornendo strumenti per automatizzare, integrare e gestire meglio le vostre traduzioni. Lokalise è un modo migliore per le aziende orientate alla crescita di espandere le proprie app mobili, giochi, software o contenuti digitali in più lingue."
+    },
+    "better": {
+        "translation": "Meglio"
+    },
+    "sign-up-google": {
+        "translation": "Iscriviti con Google"
+    },
+    "hero-copy": {
+        "translation": "Che si tratti dell'archiviazione di file nel cloud, della gestione delle attività o degli strumenti di comunicazione, integra Lokalise con migliaia di altre app su Zapier per automatizzare il tuo flusso di lavoro."
+    },
+    "zapier-header": {
+        "translation": "Integrazione Lokalise per Zapier"
+    },
+    "meet-lokalise": {
+        "translation": "Incontra Lokalise"
+    },
+    "email-entry-better": {
+        "translation": "better@lokalise.com"
+    },
+    "full_name": {
+        "translation": "Nome e cognome"
+    },
+    "by-signing-up": {
+        "translation": "Iscrivendoti, accetti i nostri <u> Termini di servizio <\/u> e la <u> Informativa sulla privacy <\/u> ."
+    },
+    "email": {
+        "translation": "Posta elettronica"
+    },
+    "log-in2": {
+        "translation": "Login"
+    },
+    "key-flyplay": {
+        "translation": "ciao Gulla"
+    },
+    "page_1.or_signup_with_your_e-mail": {
+        "translation": "Rimuovere il molo"
+    },
+    "group_843.login": {
+        "translation": "Login"
+    },
+    "page_2.30": {
+        "translation": "30"
+    },
+    "page_2.our_goal": {
+        "translation": "Il nostro obiettivo è eliminare il problema della localizzazione fornendo strumenti per automatizzare, integrare e gestire al meglio le traduzioni. Lokalise è un modo migliore per le aziende orientate alla crescita di espandere le loro applicazioni mobili, giochi, software o contenuti digitali in più lingue."
+    },
+    "page_1.better": {
+        "translation": "Meglio"
+    },
+    "page_1.sign-in_with_google": {
+        "translation": "Accedi con Google"
+    },
+    "page_1.register": {
+        "translation": "Registrati"
+    },
+    "page_1.email": {
+        "translation": "better@lokalise.com"
+    },
+    "page_2.get_to_know_lokalise_better": {
+        "translation": "Conosci meglio Lokalise"
+    },
+    "page_1.password": {
+        "translation": "Parola d'ordine"
+    },
+    "page_1.full_name": {
+        "translation": "Nome e cognome"
+    },
+    "page_1.privacy_policy.": {
+        "translation": "Iscrivendoti, accetti i nostri <u> Termini di utilizzo <\/u> e la <u> Informativa sulla privacy <\/u> ."
+    },
+    "page_1.register.8": {
+        "translation": "Rimozione del Dock"
+    },
+    "page_1.••••••••••••••": {
+        "translation": "•••••••••••••••"
+    },
+    "page_1.e-mail": {
+        "translation": "Posta elettronica"
+    },
+    "Login": {
+        "translation": "Login"
+    },
+    "register": {
+        "translation": "Registrati"
+    },
+    "Log_in_with_Google": {
+        "translation": "Accedi con Google"
+    },
+    "Or_signup_with_your_e-mail": {
+        "translation": "Oppure registrati con la tua email"
+    },
+    "Full_name": {
+        "translation": "Nome e cognome"
+    },
+    "Better": {
+        "translation": "Meglio"
+    },
+    "E-mail": {
+        "translation": "Posta elettronica"
+    },
+    "better@lokalise.com": {
+        "translation": "better@lokalise.com"
+    },
+    "Password": {
+        "translation": "Parola d'ordine"
+    },
+    "By_signing_up__you_accept_our_Terms_of_Use_and_Privacy_Policy.": {
+        "translation": "Iscrivendoti, accetti i nostri <u> Termini di utilizzo <\/u> e la <u> Informativa sulla privacy <\/u> ."
+    },
+    "Register": {
+        "translation": "Registrati"
+    },
+    "Want_to_join_an_existing_Team_instead?_Login": {
+        "translation": "Vuoi invece unirti a un team esistente? Login"
+    },
+    "menu": {
+        "en": {
+            "translation": "Inglese"
+        },
+        "home": {
+            "translation": "Casa"
+        },
+        "about": {
+            "translation": "Di"
+        },
+        "contact": {
+            "translation": "Contattaci"
+        }
+    },
+    "main": {
+        "welcome": {
+            "translation": "Ciao da Lokalise!"
+        },
+        "new_message": {
+            "translation": "nessun messaggio | un messaggio | %1$s messaggi"
+        },
+        "hello": {
+            "translation": "Ciao da Lokalise"
+        }
+    },
+    "about": {
+        "welcome": {
+            "translation": "Benvenuti nella pagina Informazioni!"
+        }
+    }
+}
