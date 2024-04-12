@@ -21,5 +21,6 @@
     "full_name": "Vollständiger Name",
     "by-signing-up": "Mit Ihrer Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzerklärung <\/u> .",
     "email": "Email",
-    "log-in2": "Anmeldung"
+    "log-in2": "Anmeldung",
+    "demo-key": "Dies ist ein Demoschlüssel."
 }
