@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: Demo Project\n"
+"PO-Revision-Date: 2024-04-16 13:39\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: fr\n"
+
+msgid "sign_up_page_—_mobile::or-sign-up"
+msgstr "Ou inscrivez-vous avec votre email "
+
+msgid "sign_up_page_—_mobile::by-signing-up"
+msgstr "En vous inscrivant, vous acceptez nos <u> Conditions d'utilisation </u> et <u> Politique de confidentialité </u> ."
+
+msgid "sign_up_page_—_mobile::sign_up"
+msgstr "S'inscrire"
+
+msgid "sign_up_page_—_mobile::email-entry-better"
+msgstr "plusbon@lokalise.com"
+
+msgid "log_in_page_—_mobile::log-in-sso"
+msgstr "Connectez-vous avec SSO"
+
+msgid "sign_up_page_—_mobile::looking-to-join"
+msgstr "Vous souhaitez plutôt rejoindre une équipe existante ? Se connecter"
+
+msgid "log_in_page_—_mobile::log-in"
+msgstr "Se connecter"
+
+msgid "log_in_page_—_mobile::log-in-google"
+msgstr "Connectez-vous avec Google"
+
+msgid "sign_up_page_—_mobile::email"
+msgstr "E-mail"
+
+msgid "sign_up_page_—_mobile::password"
+msgstr "Mot de passe"
+
+msgid "log_in_page_—_mobile::email-entry-john"
+msgstr "john@better.com"
+
+msgid "sign_up_page_—_mobile::better"
+msgstr "Mieux"
+
+msgid "log_in_page_—_mobile::username"
+msgstr "Nom d'utilisateur"
+
+msgid "sign_up_page_—_mobile::sign-up-google"
+msgstr "Inscrivez-vous avec Google"
+
+msgid "sign_up_page_—_mobile::full_name"
+msgstr "Nom et prénoms"
