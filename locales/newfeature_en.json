@@ -1,0 +1,48 @@
+{
+    "or-sign-up": {
+        "translation": "Or sign up with your email "
+    },
+    "by-signing-up": {
+        "translation": "By signing up, you accept our <u>Terms of Service<\/u> and <u>Privacy Policy<\/u>."
+    },
+    "sign_up": {
+        "translation": "Sign Up"
+    },
+    "email-entry-better": {
+        "translation": "better@lokalise.com"
+    },
+    "log-in-sso": {
+        "translation": "Log in with SSO"
+    },
+    "looking-to-join": {
+        "translation": "Looking to join an existing team instead? Log In"
+    },
+    "log-in": {
+        "translation": "Log In"
+    },
+    "log-in-google": {
+        "translation": "Log In with Google"
+    },
+    "email": {
+        "translation": "E-mail"
+    },
+    "password": {
+        "translation": "Password"
+    },
+    "email-entry-john": {
+        "translation": "john@better.com"
+    },
+    "better": {
+        "translation": "Better"
+    },
+    "username": {
+        "translation": "Username"
+    },
+    "sign-up-google": {
+        "translation": "Sign Up with Google",
+        "limit": 25
+    },
+    "full_name": {
+        "translation": "Full name"
+    }
+}
