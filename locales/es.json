@@ -1,26 +1,130 @@
 {
-    "log-in": "Iniciar sesión",
-    "password": "Contraseña",
-    "log-in-sso": "Inicia sesión con SSO",
-    "username": "Nombre de usuario",
-    "try-it-free": "Prueba gratis",
-    "book-demo": "Reserva una demostración",
-    "sign-up": "Registrarse",
-    "looking-to-join": "¿Buscas unirte a un equipo existente en su lugar? Inicia sesión",
-    "email-entry-john": "john@better.com",
-    "try-all-features": "Prueba todas las funciones durante 14 días · No se requiere tarjeta de crédito",
-    "log-in-google": "Iniciar sesión con Google",
-    "or-sign-up": "O regístrate con tu correo electrónico",
-    "our-goal-copy": "Nuestro objetivo es eliminar el problema de la localización proporcionando herramientas para automatizar, integrar y gestionar mejor sus traducciones. Lokalise es una mejor manera para que las empresas con mentalidad de crecimiento expandan sus aplicaciones móviles, juegos, software o contenido digital a varios idiomas.",
-    "better": "Mejor",
-    "sign-up-google": "Regístrate con Google",
-    "hero-copy": "Ya sea tu almacenamiento de archivos en la nube, la gestión de tareas o las herramientas de comunicación, integra Lokalise con miles de otras aplicaciones en Zapier para automatizar tu flujo de trabajo.",
-    "zapier-header": "Integración de Lokalise para Zapier",
-    "meet-lokalise": "Conoce a Lokalise",
-    "email-entry-better": "better@lokalise.com",
-    "full_name": "Nombre completo",
-    "by-signing-up": "Al registrarte, aceptas nuestros <u>Términos de Servicio<\/u> y <u>Política de Privacidad<\/u>.",
-    "email": "Correo electrónico",
-    "log-in2": "Iniciar sesión",
-    "demo-key": "Esta es una clave de demostración."
+    "Log_In_page_—_mobile": {
+        "log-in": {
+            "translation": "Acceso"
+        },
+        "log-in-google": {
+            "translation": "Iniciar sesión con Google"
+        },
+        "email-entry-john": {
+            "translation": "juan@mejor.com"
+        },
+        "log-in-sso": {
+            "translation": "Iniciar sesión con SSO"
+        },
+        "username": {
+            "translation": "Nombre de usuario"
+        }
+    },
+    "Sign_Up_page_—_Mobile": {
+        "password-entry": {
+            "translation": "•••••••••••••"
+        }
+    },
+    "sign_up_page_—_mobile.97": {
+        "translation": "Correo electrónico"
+    },
+    "sign_up_page_—_mobile.76": {
+        "translation": "Contraseña"
+    },
+    "sign_up_page_—_mobile.52": {
+        "translation": "¿Quieres unirte a un equipo existente? Acceso"
+    },
+    "Group_843": {
+        "sign-up": {
+            "translation": "Inscribirse"
+        }
+    },
+    "sign_up_page_—_mobile.72": {
+        "translation": "Mejor"
+    },
+    "sign_up_page_—_mobile.72.72": {
+        "translation": "Regístrate con Google"
+    },
+    "sign_up_page_—_mobile.33": {
+        "translation": "Nombre completo"
+    },
+    "sign_up_page_—_mobile.96": {
+        "translation": "O regístrate con tu correo electrónico ",
+        "limit": 25
+    },
+    "sign_up_page_—_mobile.60": {
+        "translation": "Al registrarte, aceptas nuestros Términos y Condiciones.",
+        "limit": 50
+    },
+    "sign_up_page_—_mobile.68": {
+        "translation": "mejor@lokalise.com"
+    },
+    "log-in": {
+        "translation": "Acceso"
+    },
+    "password": {
+        "translation": "Contraseña"
+    },
+    "log-in-sso": {
+        "translation": "Iniciar sesión con SSO"
+    },
+    "username": {
+        "translation": "Nombre de usuario"
+    },
+    "try-it-free": {
+        "translation": "Pruébalo gratis"
+    },
+    "book-demo": {
+        "translation": "Reserva una demostración"
+    },
+    "sign-up": {
+        "translation": "Inscribirse"
+    },
+    "looking-to-join": {
+        "translation": "¿Quieres unirte a un equipo existente? Acceso"
+    },
+    "email-entry-john": {
+        "translation": "juan@mejor.com"
+    },
+    "try-all-features": {
+        "translation": "Pruebe todas las funciones durante 14 días · No se requiere tarjeta de crédito"
+    },
+    "log-in-google": {
+        "translation": "Iniciar sesión con Google"
+    },
+    "or-sign-up": {
+        "translation": "O regístrate con tu correo electrónico "
+    },
+    "our-goal-copy": {
+        "translation": "Nuestro objetivo es eliminar la molestia de la localización proporcionando herramientas para automatizar, integrar y gestionar mejor sus traducciones. Lokalise es una mejor manera para que las empresas con mentalidad de crecimiento expandan sus aplicaciones móviles, juegos, software o contenido digital a varios idiomas."
+    },
+    "better": {
+        "translation": "Mejor"
+    },
+    "sign-up-google": {
+        "translation": "Regístrate con Google"
+    },
+    "hero-copy": {
+        "translation": "Ya sea que se trate de almacenamiento de archivos en la nube, administración de tareas o herramientas de comunicación, integre Lokalise con miles de otras aplicaciones en Zapier para automatizar su flujo de trabajo."
+    },
+    "zapier-header": {
+        "translation": "Integración de Lokalise para Zapier"
+    },
+    "meet-lokalise": {
+        "translation": "Conoce a Lokalise"
+    },
+    "email-entry-better": {
+        "translation": "mejor@lokalise.com"
+    },
+    "full_name": {
+        "translation": "Nombre completo"
+    },
+    "by-signing-up": {
+        "translation": "Al registrarse, acepta nuestras <u> Condiciones de servicio <\/u> y <u> Política de privacidad <\/u> ."
+    },
+    "email": {
+        "translation": "Correo electrónico"
+    },
+    "log-in2": {
+        "translation": "Acceso"
+    },
+    "demo-key": {
+        "translation": "Esta es una clave de demostración."
+    }
 }

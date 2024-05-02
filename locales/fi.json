@@ -1,0 +1,130 @@
+{
+    "Log_In_page_—_mobile": {
+        "log-in": {
+            "translation": "Kirjaudu sisään"
+        },
+        "log-in-google": {
+            "translation": "Kirjaudu sisään Googlella"
+        },
+        "email-entry-john": {
+            "translation": "john@better.com"
+        },
+        "log-in-sso": {
+            "translation": "Kirjaudu sisään SSO:lla"
+        },
+        "username": {
+            "translation": "Käyttäjätunnus"
+        }
+    },
+    "Sign_Up_page_—_Mobile": {
+        "password-entry": {
+            "translation": "•••••••••••••"
+        }
+    },
+    "sign_up_page_—_mobile.97": {
+        "translation": "Sähköposti"
+    },
+    "sign_up_page_—_mobile.76": {
+        "translation": "Salasana"
+    },
+    "sign_up_page_—_mobile.52": {
+        "translation": "Haluatko liittyä olemassa olevaan tiimiin? Kirjaudu sisään"
+    },
+    "Group_843": {
+        "sign-up": {
+            "translation": "Kirjaudu"
+        }
+    },
+    "sign_up_page_—_mobile.72": {
+        "translation": "Paremmin"
+    },
+    "sign_up_page_—_mobile.72.72": {
+        "translation": "Rekisteröidy Googlella"
+    },
+    "sign_up_page_—_mobile.33": {
+        "translation": "Koko nimi"
+    },
+    "sign_up_page_—_mobile.96": {
+        "translation": "Tai rekisteröidy sähköpostillasi",
+        "limit": 25
+    },
+    "sign_up_page_—_mobile.60": {
+        "translation": "Kirjautumalla sisään, hyväksyt ehdot ja edellytyks",
+        "limit": 50
+    },
+    "sign_up_page_—_mobile.68": {
+        "translation": "better@lokalise.com"
+    },
+    "log-in": {
+        "translation": "Kirjaudu sisään"
+    },
+    "password": {
+        "translation": "Salasana"
+    },
+    "log-in-sso": {
+        "translation": "Kirjaudu sisään SSO:lla"
+    },
+    "username": {
+        "translation": "Käyttäjätunnus"
+    },
+    "try-it-free": {
+        "translation": "Kokeile sitä ilmaiseksi"
+    },
+    "book-demo": {
+        "translation": "Varaa demo"
+    },
+    "sign-up": {
+        "translation": "Kirjaudu"
+    },
+    "looking-to-join": {
+        "translation": "Haluatko liittyä olemassa olevaan tiimiin? Kirjaudu sisään"
+    },
+    "email-entry-john": {
+        "translation": "john@better.com"
+    },
+    "try-all-features": {
+        "translation": "Kokeile kaikkia ominaisuuksia 14 päivän ajan · Luottokorttia ei tarvita"
+    },
+    "log-in-google": {
+        "translation": "Kirjaudu sisään Googlella"
+    },
+    "or-sign-up": {
+        "translation": "Tai rekisteröidy sähköpostillasi "
+    },
+    "our-goal-copy": {
+        "translation": "Tavoitteemme on poistaa lokalisoinnin vaivat tarjoamalla työkaluja käännöstesi automatisointiin, integrointiin ja hallintaan. Lokalise on kasvuhaluisille yrityksille parempi tapa laajentaa mobiilisovelluksiaan, pelejä, ohjelmistoja tai digitaalista sisältöä useille kielille."
+    },
+    "better": {
+        "translation": "Paremmin"
+    },
+    "sign-up-google": {
+        "translation": "Rekisteröidy Googlella"
+    },
+    "hero-copy": {
+        "translation": "Olipa kyseessä pilvitallennus-, tehtävienhallinta- tai viestintätyökalusi, integroi Lokalise tuhansien muiden Zapierin sovellusten kanssa työnkulkusi automatisoimiseksi."
+    },
+    "zapier-header": {
+        "translation": "Lokalise integraatio Zapierille"
+    },
+    "meet-lokalise": {
+        "translation": "Tapaa Lokalise"
+    },
+    "email-entry-better": {
+        "translation": "better@lokalise.com"
+    },
+    "full_name": {
+        "translation": "Koko nimi"
+    },
+    "by-signing-up": {
+        "translation": "Rekisteröitymällä hyväksyt <u> käyttöehtomme <\/u> ja <u> tietosuojakäytäntömme <\/u> ."
+    },
+    "email": {
+        "translation": "Sähköposti"
+    },
+    "log-in2": {
+        "translation": "Kirjaudu sisään"
+    },
+    "demo-key": {
+        "translation": "Tämä on demo-avain."
+    }
+}

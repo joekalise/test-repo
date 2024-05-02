@@ -1,0 +1,130 @@
+{
+    "Log_In_page_—_mobile": {
+        "log-in": {
+            "translation": "تسجيل الدخول"
+        },
+        "log-in-google": {
+            "translation": "تسجيل الدخول عبر جوجل"
+        },
+        "email-entry-john": {
+            "translation": "جون@better.com"
+        },
+        "log-in-sso": {
+            "translation": "تسجيل الدخول باستخدام SSO"
+        },
+        "username": {
+            "translation": "اسم المستخدم"
+        }
+    },
+    "Sign_Up_page_—_Mobile": {
+        "password-entry": {
+            "translation": "•••••••••••••"
+        }
+    },
+    "sign_up_page_—_mobile.97": {
+        "translation": "بريد إلكتروني"
+    },
+    "sign_up_page_—_mobile.76": {
+        "translation": "كلمة المرور"
+    },
+    "sign_up_page_—_mobile.52": {
+        "translation": "هل تتطلع إلى الانضمام إلى فريق حالي بدلاً من ذلك؟ تسجيل الدخول"
+    },
+    "Group_843": {
+        "sign-up": {
+            "translation": "اشتراك"
+        }
+    },
+    "sign_up_page_—_mobile.72": {
+        "translation": "أحسن"
+    },
+    "sign_up_page_—_mobile.72.72": {
+        "translation": "قم بالتسجيل مع جوجل"
+    },
+    "sign_up_page_—_mobile.33": {
+        "translation": "الاسم الكامل"
+    },
+    "sign_up_page_—_mobile.96": {
+        "translation": "أو قم بالتسجيل باستخدام بريدك الإلكتروني",
+        "limit": 25
+    },
+    "sign_up_page_—_mobile.60": {
+        "translation": "عند التسجيل، أنت توافق على شروطنا وأحكامنا.<\/lok>t",
+        "limit": 50
+    },
+    "sign_up_page_—_mobile.68": {
+        "translation": "Better@lokalise.com"
+    },
+    "log-in": {
+        "translation": "تسجيل الدخول"
+    },
+    "password": {
+        "translation": "كلمة المرور"
+    },
+    "log-in-sso": {
+        "translation": "تسجيل الدخول باستخدام SSO"
+    },
+    "username": {
+        "translation": "اسم المستخدم"
+    },
+    "try-it-free": {
+        "translation": "جربها مجانا"
+    },
+    "book-demo": {
+        "translation": "احجز عرضًا توضيحيًا"
+    },
+    "sign-up": {
+        "translation": "اشتراك"
+    },
+    "looking-to-join": {
+        "translation": "هل تتطلع إلى الانضمام إلى فريق حالي بدلاً من ذلك؟ تسجيل الدخول"
+    },
+    "email-entry-john": {
+        "translation": "جون@better.com"
+    },
+    "try-all-features": {
+        "translation": "جرب كافة الميزات لمدة 14 يومًا · لا يلزم وجود بطاقة ائتمان"
+    },
+    "log-in-google": {
+        "translation": "تسجيل الدخول عبر جوجل"
+    },
+    "or-sign-up": {
+        "translation": "أو قم بالتسجيل باستخدام بريدك الإلكتروني "
+    },
+    "our-goal-copy": {
+        "translation": "هدفنا هو التخلص من متاعب الترجمة من خلال توفير أدوات لأتمتة ترجماتك ودمجها وإدارتها بشكل أفضل. تعد Lokalise طريقة أفضل للشركات ذات التوجه النمو لتوسيع تطبيقاتها أو ألعابها أو برامجها أو محتواها الرقمي على الأجهزة المحمولة إلى لغات متعددة."
+    },
+    "better": {
+        "translation": "أحسن"
+    },
+    "sign-up-google": {
+        "translation": "قم بالتسجيل مع جوجل"
+    },
+    "hero-copy": {
+        "translation": "سواء كان ذلك يتعلق بتخزين الملفات السحابية، أو إدارة المهام، أو أدوات الاتصال، يمكنك دمج Lokalise مع آلاف التطبيقات الأخرى على Zapier لأتمتة سير عملك."
+    },
+    "zapier-header": {
+        "translation": "التكامل المحلي لـ Zapier"
+    },
+    "meet-lokalise": {
+        "translation": "تعرف على لوكاليس"
+    },
+    "email-entry-better": {
+        "translation": "Better@lokalise.com"
+    },
+    "full_name": {
+        "translation": "الاسم الكامل"
+    },
+    "by-signing-up": {
+        "translation": "من خلال التسجيل، فإنك تقبل <u> شروط الخدمة <\/u> و <u> سياسة الخصوصية <\/u> ."
+    },
+    "email": {
+        "translation": "بريد إلكتروني"
+    },
+    "log-in2": {
+        "translation": "تسجيل الدخول"
+    },
+    "demo-key": {
+        "translation": "هذا هو المفتاح التجريبي."
+    }
+}
