@@ -1,26 +1,74 @@
 {
-    "log-in": "Iniciar sesión",
-    "password": "Contraseña",
-    "log-in-sso": "Inicia sesión con SSO",
-    "username": "Nombre de usuario",
-    "try-it-free": "Prueba gratis",
-    "book-demo": "Reserva una demostración",
-    "sign-up": "Registrarse",
-    "looking-to-join": "¿Buscas unirte a un equipo existente en su lugar? Inicia sesión",
-    "email-entry-john": "john@better.com",
-    "try-all-features": "Prueba todas las funciones durante 14 días · No se requiere tarjeta de crédito",
-    "log-in-google": "Iniciar sesión con Google",
-    "or-sign-up": "O regístrate con tu correo electrónico",
-    "our-goal-copy": "Nuestro objetivo es eliminar el problema de la localización proporcionando herramientas para automatizar, integrar y gestionar mejor sus traducciones. Lokalise es una mejor manera para que las empresas con mentalidad de crecimiento expandan sus aplicaciones móviles, juegos, software o contenido digital a varios idiomas.",
-    "better": "Mejor",
-    "sign-up-google": "Regístrate con Google",
-    "hero-copy": "Ya sea tu almacenamiento de archivos en la nube, la gestión de tareas o las herramientas de comunicación, integra Lokalise con miles de otras aplicaciones en Zapier para automatizar tu flujo de trabajo.",
-    "zapier-header": "Integración de Lokalise para Zapier",
-    "meet-lokalise": "Conoce a Lokalise",
-    "email-entry-better": "better@lokalise.com",
-    "full_name": "Nombre completo",
-    "by-signing-up": "Al registrarte, aceptas nuestros <u>Términos de Servicio<\/u> y <u>Política de Privacidad<\/u>.",
-    "email": "Correo electrónico",
-    "log-in2": "Iniciar sesión",
-    "demo-key": "Esta es una clave de demostración."
+    "log-in": {
+        "translation": "Iniciar sesión"
+    },
+    "password": {
+        "translation": "Contraseña"
+    },
+    "log-in-sso": {
+        "translation": "Inicia sesión con SSO"
+    },
+    "username": {
+        "translation": "Nombre de usuario"
+    },
+    "try-it-free": {
+        "translation": "Prueba gratis"
+    },
+    "book-demo": {
+        "translation": "Reserva una demostración"
+    },
+    "sign-up": {
+        "translation": "Registrarse"
+    },
+    "looking-to-join": {
+        "translation": "¿Buscas unirte a un equipo existente en su lugar? Inicia sesión"
+    },
+    "email-entry-john": {
+        "translation": "john@better.com"
+    },
+    "try-all-features": {
+        "translation": "Prueba todas las funciones durante 14 días · No se requiere tarjeta de crédito"
+    },
+    "log-in-google": {
+        "translation": "Iniciar sesión con Google"
+    },
+    "or-sign-up": {
+        "translation": "O regístrate con tu correo electrónico"
+    },
+    "our-goal-copy": {
+        "translation": "Nuestro objetivo es eliminar el problema de la localización proporcionando herramientas para automatizar, integrar y gestionar mejor sus traducciones. Lokalise es una mejor manera para que las empresas con mentalidad de crecimiento expandan sus aplicaciones móviles, juegos, software o contenido digital a varios idiomas."
+    },
+    "better": {
+        "translation": "Mejor"
+    },
+    "sign-up-google": {
+        "translation": "Regístrate con Google"
+    },
+    "hero-copy": {
+        "translation": "Ya sea tu almacenamiento de archivos en la nube, la gestión de tareas o las herramientas de comunicación, integra Lokalise con miles de otras aplicaciones en Zapier para automatizar tu flujo de trabajo."
+    },
+    "zapier-header": {
+        "translation": "Integración de Lokalise para Zapier"
+    },
+    "meet-lokalise": {
+        "translation": "Conoce a Lokalise"
+    },
+    "email-entry-better": {
+        "translation": "better@lokalise.com"
+    },
+    "full_name": {
+        "translation": "Nombre completo"
+    },
+    "by-signing-up": {
+        "translation": "Al registrarte, aceptas nuestros <u>Términos de Servicio<\/u> y <u>Política de Privacidad<\/u>."
+    },
+    "email": {
+        "translation": "Correo electrónico"
+    },
+    "log-in2": {
+        "translation": "Iniciar sesión"
+    },
+    "demo-key": {
+        "translation": "Esta es una clave de demostración para ti"
+    }
 }

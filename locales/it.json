@@ -1,26 +1,74 @@
 {
-    "log-in": "Login",
-    "password": "Parola d'ordine",
-    "log-in-sso": "Accedi con SSO",
-    "username": "Nome utente",
-    "try-it-free": "Provalo GRATIS",
-    "book-demo": "Prenota una dimostrazione",
-    "sign-up": "Iscrizione",
-    "looking-to-join": "Vuoi invece unirti a un team esistente? Login",
-    "email-entry-john": "giovanni@better.com",
-    "try-all-features": "Prova tutte le funzionalità per 14 giorni · Non è richiesta la carta di credito",
-    "log-in-google": "Accedi con Google",
-    "or-sign-up": "Oppure registrati con la tua email ",
-    "our-goal-copy": "Il nostro obiettivo è eliminare il fastidio della localizzazione fornendo strumenti per automatizzare, integrare e gestire meglio le vostre traduzioni. Lokalise è un modo migliore per le aziende orientate alla crescita di espandere le proprie app mobili, giochi, software o contenuti digitali in più lingue.",
-    "better": "Meglio",
-    "sign-up-google": "Iscriviti con Google",
-    "hero-copy": "Che si tratti dell'archiviazione di file nel cloud, della gestione delle attività o degli strumenti di comunicazione, integra Lokalise con migliaia di altre app su Zapier per automatizzare il tuo flusso di lavoro.",
-    "zapier-header": "Integrazione Lokalise per Zapier",
-    "meet-lokalise": "Incontra Lokalise",
-    "email-entry-better": "better@lokalise.com",
-    "full_name": "Nome e cognome",
-    "by-signing-up": "Iscrivendoti, accetti i nostri <u> Termini di servizio <\/u> e la <u> Informativa sulla privacy <\/u> .",
-    "email": "Posta elettronica",
-    "log-in2": "Login",
-    "demo-key": "Questa è una chiave demo."
+    "log-in": {
+        "translation": "Login"
+    },
+    "password": {
+        "translation": "Parola d'ordine"
+    },
+    "log-in-sso": {
+        "translation": "Accedi con SSO"
+    },
+    "username": {
+        "translation": "Nome utente"
+    },
+    "try-it-free": {
+        "translation": "Provalo GRATIS"
+    },
+    "book-demo": {
+        "translation": "Prenota una dimostrazione"
+    },
+    "sign-up": {
+        "translation": "Iscrizione"
+    },
+    "looking-to-join": {
+        "translation": "Vuoi invece unirti a un team esistente? Login"
+    },
+    "email-entry-john": {
+        "translation": "giovanni@better.com"
+    },
+    "try-all-features": {
+        "translation": "Prova tutte le funzionalità per 14 giorni · Non è richiesta la carta di credito"
+    },
+    "log-in-google": {
+        "translation": "Accedi con Google"
+    },
+    "or-sign-up": {
+        "translation": "Oppure registrati con la tua email "
+    },
+    "our-goal-copy": {
+        "translation": "Il nostro obiettivo è eliminare il fastidio della localizzazione fornendo strumenti per automatizzare, integrare e gestire meglio le vostre traduzioni. Lokalise è un modo migliore per le aziende orientate alla crescita di espandere le proprie app mobili, giochi, software o contenuti digitali in più lingue."
+    },
+    "better": {
+        "translation": "Meglio"
+    },
+    "sign-up-google": {
+        "translation": "Iscriviti con Google"
+    },
+    "hero-copy": {
+        "translation": "Che si tratti dell'archiviazione di file nel cloud, della gestione delle attività o degli strumenti di comunicazione, integra Lokalise con migliaia di altre app su Zapier per automatizzare il tuo flusso di lavoro."
+    },
+    "zapier-header": {
+        "translation": "Integrazione Lokalise per Zapier"
+    },
+    "meet-lokalise": {
+        "translation": "Incontra Lokalise"
+    },
+    "email-entry-better": {
+        "translation": "better@lokalise.com"
+    },
+    "full_name": {
+        "translation": "Nome e cognome"
+    },
+    "by-signing-up": {
+        "translation": "Iscrivendoti, accetti i nostri <u> Termini di servizio <\/u> e la <u> Informativa sulla privacy <\/u> ."
+    },
+    "email": {
+        "translation": "Posta elettronica"
+    },
+    "log-in2": {
+        "translation": "Login"
+    },
+    "demo-key": {
+        "translation": "Questa è una chiave demo per te."
+    }
 }
