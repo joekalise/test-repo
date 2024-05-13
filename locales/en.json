@@ -1,25 +1,48 @@
 {
-    "log-in": "Log In",
-    "password": "Password",
-    "log-in-sso": "Log in with SSO",
-    "username": "Username",
-    "try-it-free": "Try it free",
-    "book-demo": "Book a demo",
-    "sign-up": "Sign Up",
-    "looking-to-join": "Looking to join an existing team instead? Log In",
-    "email-entry-john": "john@better.com",
-    "try-all-features": "Try all features for 14 days · No credit card required",
-    "log-in-google": "Log In with Google",
-    "or-sign-up": "Or sign up with your email ",
-    "our-goal-copy": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate, and better manage your translations. Lokalise is a better way for growth-minded businesses to expand their mobile apps, games, software or digital content into multiple languages.",
-    "better": "Better",
-    "sign-up-google": "Sign Up with Google",
-    "hero-copy": "Whether it’s your cloud file storage, task management, or communication tools, integrate Lokalise with thousands of other apps on Zapier to automate your workflow.",
-    "zapier-header": "Lokalise integration for Zapier",
-    "meet-lokalise": "Meet Lokalise",
-    "email-entry-better": "better@lokalise.com",
-    "full_name": "Full name",
-    "by-signing-up": "By signing up, you accept our <u>Terms of Service<\/u> and <u>Privacy Policy<\/u>.",
-    "email": "E-mail",
-    "log-in2": "Log In"
+    "or-sign-up": {
+        "translation": "Or sign up with your email"
+    },
+    "by-signing-up": {
+        "translation": "By signing up, you accept our Terms and Conditions."
+    },
+    "sign_up": {
+        "translation": "Sign Up"
+    },
+    "email-entry-better": {
+        "translation": "better@lokalise.com"
+    },
+    "log-in-sso": {
+        "translation": "Log in with SSO"
+    },
+    "looking-to-join": {
+        "translation": "Looking to join an existing team instead? Log In"
+    },
+    "log-in": {
+        "translation": "Log In"
+    },
+    "log-in-google": {
+        "translation": "Log In with Google"
+    },
+    "email": {
+        "translation": "E-mail"
+    },
+    "password": {
+        "translation": "Password"
+    },
+    "email-entry-john": {
+        "translation": "john@better.com"
+    },
+    "better": {
+        "translation": "Better"
+    },
+    "username": {
+        "translation": "Username"
+    },
+    "sign-up-google": {
+        "translation": "Sign Up with Google",
+        "limit": 20
+    },
+    "full_name": {
+        "translation": "Full name"
+    }
 }
