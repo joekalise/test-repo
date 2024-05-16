@@ -21,7 +21,10 @@ jobs:
       - name: Verify Node.js Version
         run: node -v  # Verify the Node.js version
 
-      - name: Add permissions to script
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Add Permissions to Script
         run: chmod +x .github/scripts/upload_images.js  # Ensure script is executable
 
       - name: List Directory Contents for Debugging
