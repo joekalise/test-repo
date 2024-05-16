@@ -18,20 +18,19 @@ jobs:
         with:
           node-version: '20'  # Explicitly set Node.js to version 20
 
-      - name: Verify Node.js Version
-        run: node -v  # Verify the Node.js version
-
       - name: Install Dependencies
         run: npm install
 
       - name: Add Permissions to Script
         run: chmod +x .github/scripts/upload_images.js  # Ensure script is executable
 
-      - name: List Directory Contents for Debugging
-        run: ls -la .github/scripts  # Confirm presence and permissions of the script
+      - name: Get Changed Files
+        id: changed_files
+        run: |
+          echo "::set-output name=files::$(git diff --name-only ${{ github.sha }} ${{ github.event.before }} | grep '^images/' || true)"
 
       - name: Upload Images to Lokalise
         env:
           LOKALISE_API_TOKEN: ${{ secrets.LOKALISE_API_TOKEN }}
         run: |
-          node .github/scripts/upload_images.js
+          node .github/scripts/upload_images.js "${{ steps.changed_files.outputs.files }}"
