@@ -18,21 +18,21 @@ const getBase64Prefix = (fileName) => {
   }
 };
 
-const uploadImages = async () => {
+const uploadImages = async (changedFiles) => {
   console.log("Starting uploadImages function");
 
-  const images = fs.readdirSync(imagesDirectory).filter(file => /\.(png|jpg|jpeg)$/i.test(file));
-  console.log(`Found images: ${images.join(',')}`);
+  const images = changedFiles.split('\n').filter(Boolean);
+  console.log(`Found changed images: ${images.join(',')}`);
 
   if (images.length === 0) {
-    console.log("No images found to upload.");
+    console.log("No new or changed images found to upload.");
     return;
   }
 
   for (const image of images) {
     console.log(`Processing image: ${image}`);
-    const imagePath = path.join(imagesDirectory, image);
-    
+    const imagePath = path.join(image);
+
     let imageData;
     try {
       // Read image and add base64 prefix
@@ -57,7 +57,7 @@ const uploadImages = async () => {
           {
             ocr: true,
             data: imageData,
-            title: image
+            title: path.basename(image)
           }
         ]
       })
@@ -78,7 +78,9 @@ const uploadImages = async () => {
   }
 };
 
-uploadImages().catch(error => {
+// Getting the list of changed files from process arguments
+const changedFiles = process.argv[2];
+uploadImages(changedFiles).catch(error => {
   console.error('Unexpected error during uploadImages execution:', error);
   process.exit(1); // Ensure non-zero exit code on error
 });
