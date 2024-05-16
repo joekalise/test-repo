@@ -5,7 +5,10 @@ const fetch = require('node-fetch');
 const imagesDirectory = './images';
 
 const uploadImages = async () => {
+  console.log("Starting uploadImages function");
   const images = fs.readdirSync(imagesDirectory).filter(file => /\.(png|jpg|jpeg)$/i.test(file));
+
+  console.log(`Found images: ${images}`);
 
   if (images.length === 0) {
     console.log("No images found to upload.");
@@ -13,8 +16,16 @@ const uploadImages = async () => {
   }
 
   for (const image of images) {
+    console.log(`Processing image: ${image}`);
     const imagePath = path.join(imagesDirectory, image);
-    const imageData = fs.readFileSync(imagePath).toString('base64'); // Convert image to base64
+    let imageData;
+    try {
+      imageData = fs.readFileSync(imagePath).toString('base64'); // Convert image to base64
+      console.log(`Successfully read and encoded image: ${image}`);
+    } catch (err) {
+      console.error(`Failed to read or encode image ${image}:`, err);
+      continue; // Skip this image and continue with the next one
+    }
 
     const options = {
       method: 'POST',
@@ -35,14 +46,14 @@ const uploadImages = async () => {
     };
 
     try {
-      console.log(`Uploading image: ${image}`);
+      console.log(`Attempting to upload image: ${image}`);
       const response = await fetch('https://api.lokalise.com/api2/projects/2901816966436c8ba73ff3.12518449/screenshots', options);
       if (!response.ok) {
         const errorDetails = await response.text();
         throw new Error(`Upload failed with status ${response.status}: ${errorDetails}`);
       }
       const json = await response.json();
-      console.log(json);
+      console.log(`Successfully uploaded image: ${image}`, json);
     } catch (err) {
       console.error(`Failed to upload ${image}:`, err);
     }
