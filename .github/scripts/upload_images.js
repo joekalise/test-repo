@@ -4,11 +4,25 @@ const fetch = require('node-fetch');
 
 const imagesDirectory = './images';
 
+// Helper function to get base64 prefix based on file type
+const getBase64Prefix = (fileName) => {
+  const fileExtension = path.extname(fileName).toLowerCase();
+  switch (fileExtension) {
+    case '.png':
+      return 'data:image/png;base64,';
+    case '.jpg':
+    case '.jpeg':
+      return 'data:image/jpeg;base64,';
+    default:
+      throw new Error(`Unsupported file type: ${fileExtension}`);
+  }
+};
+
 const uploadImages = async () => {
   console.log("Starting uploadImages function");
 
   const images = fs.readdirSync(imagesDirectory).filter(file => /\.(png|jpg|jpeg)$/i.test(file));
-  console.log(`Found images: ${images}`);
+  console.log(`Found images: ${images.join(',')}`);
 
   if (images.length === 0) {
     console.log("No images found to upload.");
@@ -21,7 +35,10 @@ const uploadImages = async () => {
     
     let imageData;
     try {
+      // Read image and add base64 prefix
       imageData = fs.readFileSync(imagePath).toString('base64');
+      const base64Prefix = getBase64Prefix(image);
+      imageData = `${base64Prefix}${imageData}`;
       console.log(`Successfully read and encoded image: ${image}`);
     } catch (err) {
       console.error(`Failed to read or encode image ${image}:`, err);
