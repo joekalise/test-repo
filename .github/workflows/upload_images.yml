@@ -8,29 +8,29 @@ on:
 jobs:
   upload:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Checkout repository
+      - name: Set up the Repository
         uses: actions/checkout@v3
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20' # Explicitly set Node.js to version 20
+          node-version: '20'  # Explicitly set Node.js to version 20
 
-      - name: Verify Node.js version
-        run: node -v # Add a step to verify the Node.js version
+      - name: Verify Node.js Version
+        run: node -v   # Verify that Node.js 20 is being used
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: npm install
 
-      - name: Add permissions to script
-        run: chmod +x .github/scripts/upload_images.js # Ensure correct permissions
-        
-      - name: Debug Listing Directory
-        run: ls -la .github/scripts # List files in the directory to confirm presence and permissions
-        
-      - name: Upload images to Lokalise
+      - name: Set Permissions for Script
+        run: chmod +x .github/scripts/upload_images.js  # Ensure script is executable
+
+      - name: List Directory Contents for Debugging
+        run: ls -la .github/scripts  # Confirm presence and permissions of the script
+
+      - name: Upload Images to Lokalise
         env:
           LOKALISE_API_TOKEN: ${{ secrets.LOKALISE_API_TOKEN }}
         run: |
