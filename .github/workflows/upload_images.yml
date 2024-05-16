@@ -27,10 +27,17 @@ jobs:
       - name: Get Changed Files
         id: changed_files
         run: |
-          echo "::set-output name=files::$(git diff --name-only ${{ github.sha }} ${{ github.event.before }} | grep '^images/' || true)"
+          git fetch origin ${{ github.event.before }}
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^images/' || true)
+          echo "changed_files=$CHANGED_FILES" >> $GITHUB_ENV
+
+      - name: Display Changed Files
+        run: echo ${{ env.changed_files }}
 
       - name: Upload Images to Lokalise
+        if: ${{ env.changed_files != '' }}
         env:
           LOKALISE_API_TOKEN: ${{ secrets.LOKALISE_API_TOKEN }}
+          CHANGED_FILES: ${{ env.changed_files }}
         run: |
-          node .github/scripts/upload_images.js "${{ steps.changed_files.outputs.files }}"
+          node .github/scripts/upload_images.js "$CHANGED_FILES"
