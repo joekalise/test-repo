@@ -16,11 +16,14 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20' # Update Node.js to version 20
+          node-version: '20' # Explicitly set Node.js to version 20
+
+      - name: Verify Node.js version
+        run: node -v # Add a step to verify the Node.js version
 
       - name: Install dependencies
         run: npm install
-        
+
       - name: Add permissions to script
         run: chmod +x .github/scripts/upload_images.js # Ensure correct permissions
 
