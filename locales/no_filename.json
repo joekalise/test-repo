@@ -1,3 +1,19 @@
 {
-    "test-key": "Esta es mi última prueba (con suerte)"
+    "or-sign-up": "หรือลงทะเบียนด้วยอีเมลของคุณ",
+    "by-signing-up": "การสมัครแสดงว่าคุณยอมรับข้อกำหนดและเงื่อนไขของเรา",
+    "sign_up": "ลงชื่อ",
+    "email-entry-better": "ดีกว่า@lokalise.com",
+    "log-in-sso": "เข้าสู่ระบบด้วย SSO",
+    "looking-to-join": "ต้องการเข้าร่วมทีมที่มีอยู่แทนหรือไม่? เข้าสู่ระบบ",
+    "log-in": "เข้าสู่ระบบ",
+    "log-in-google": "เข้าสู่ระบบด้วย Google",
+    "email": "อีเมล",
+    "password": "รหัสผ่าน",
+    "email-entry-john": "john@better.com",
+    "sign-up": "ลงชื่อ",
+    "better": "ดีกว่า",
+    "username": "ชื่อผู้ใช้",
+    "log-in.89": "เข้าสู่ระบบ %first_name%",
+    "sign-up-google": "ลงทะเบียนกับ Google",
+    "full_name_ios": "ชื่อครบถ้วน"
 }
