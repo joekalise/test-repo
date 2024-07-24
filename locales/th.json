@@ -1,0 +1,17 @@
+{
+    "password": "รหัสผ่าน",
+    "sign_up_with_google": "ลงทะเบียนกับ Google",
+    "log_in": "เข้าสู่ระบบ",
+    "sign_up": "ลงชื่อ",
+    "e-mail": "อีเมล",
+    "by_signing_up__you_a": "การลงทะเบียนแสดงว่าคุณยอมรับ <u> ข้อกำหนดในการให้บริการ <\/u> และ <u> นโยบายความเป็นส่วนตัว <\/u> ของเรา",
+    "john@better.com": "john@better.com",
+    "or_sign_up_with_your": "หรือลงทะเบียนด้วยอีเมลของคุณ ",
+    "better@lokalise.com": "ดีกว่า@lokalise.com",
+    "log_in_with_google": "เข้าสู่ระบบด้วย Google",
+    "log_in_with_sso": "เข้าสู่ระบบด้วย SSO",
+    "username": "ชื่อผู้ใช้",
+    "full_name": "ชื่อครบถ้วน",
+    "better": "ดีกว่า",
+    "looking_to_join_an_e": "ต้องการเข้าร่วมทีมที่มีอยู่แทนหรือไม่? เข้าสู่ระบบ"
+}
