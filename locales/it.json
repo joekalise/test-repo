@@ -9,7 +9,7 @@
     "looking-to-join": "Vuoi invece unirti a un team esistente? Login",
     "email-entry-john": "giovanni@better.com",
     "try-all-features": "Prova tutte le funzionalità per 14 giorni · Non è richiesta la carta di credito",
-    "log-in-google": "Accedi con Google",
+    "log-in-google": "Accesso con Google",
     "or-sign-up": "Oppure registrati con la tua email ",
     "our-goal-copy": "Il nostro obiettivo è eliminare il fastidio della localizzazione fornendo strumenti per automatizzare, integrare e gestire meglio le vostre traduzioni. Lokalise è un modo migliore per le aziende orientate alla crescita di espandere le proprie app mobili, giochi, software o contenuti digitali in più lingue.",
     "better": "Meglio",
@@ -22,5 +22,6 @@
     "by-signing-up": "Iscrivendoti, accetti i nostri <u> Termini di servizio <\/u> e la <u> Informativa sulla privacy <\/u> .",
     "email": "Posta elettronica",
     "log-in2": "Login",
-    "demo-key": "Questa è una chiave demo."
+    "password-entry": "-------------",
+    "log-in.77": "Accesso, %first_name%"
 }
