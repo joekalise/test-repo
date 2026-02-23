@@ -17,5 +17,6 @@
   "region_code": "pt-PT",
   "environment": "staging-demo",
   "legal_disclaimer": "Sample content for testing integrations only.",
-  "integration_probe": "This alternate key verifies mapping works."
+  "integration_probe": "This alternate key verifies mapping works.",
+  "new-string-demo": "This is a new string for translation - this could have been created as a mode/variable in Figma also, or directly here."
 }
