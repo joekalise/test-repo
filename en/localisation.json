@@ -8,7 +8,5 @@
     "proof-two": "improvement in patient experience scores",  
     "proof-three": "reduction in trial costs",
     "proof-four": "acceleration in trial delivery",
-    "call-to-action": "Read the Nature Medicine article",
-    "additional-key-demo": "This is a key to demonstrate the integration working.",
-    "new-string-demo": "This is a new string for translation - this could have been created as a mode/variable in Figma also, or directly here."
+    "call-to-action": "Read the Nature Medicine article"
 }
