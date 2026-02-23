@@ -8,5 +8,6 @@
     "proof-two": "improvement in patient experience scores",  
     "proof-three": "reduction in trial costs",
     "proof-four": "acceleration in trial delivery",
-    "call-to-action": "Read the Nature Medicine article"
+    "call-to-action": "Read the Nature Medicine article",
+    "additional-key-demo": "This is a key to demonstrate the integration working."
 }
